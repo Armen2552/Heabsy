@@ -1,0 +1,493 @@
+.indignation-with-denounce{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+}
+.indignation-with-denounce_fon{
+    max-width: 1280px;
+    width: 100%;
+}
+.indignation-with-denounce_img{
+    width: 100%;
+    position: relative;
+}
+.indignation-with-denounce_img:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1020px;
+    height: 641px;
+    background: #F3F3F3;
+    z-index: -1;
+
+}
+.indignation-with-denounce_img img{
+    width: 100%;
+    margin-top: -7px;
+}
+.indignation-with-denounce  .complete-account-system{
+    max-width: 500px;
+    width: 100%;
+    margin-top: -200px;
+}
+
+.indignation-with-denounce .with-righteous_text {
+    max-width: 485px;
+    width: 100%;
+    margin-top: 100px;
+}
+.pages-shorts-heabsy_block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: 0 70px 0 120px;
+    margin-top: 350px;
+}
+.pages-shorts-heabsy_img{
+    max-width: 498px;
+    width: 100%;
+    margin-top: -390px;
+    margin-bottom: -5px;
+}
+.pages-shorts-heabsy_img img{
+    width: 100%;
+    height: 974px;
+
+}
+.work-width_circle .fitness-results-follow {
+    bottom: -200px;
+    left: auto;
+    right: 70px;
+}
+.pages-shorts-heabsy_cnt{
+    margin-top: 140px;
+}
+.pages-shorts-heabsy_cnt_flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.pages-shorts-heabsy_cnt_flex:nth-child(even){
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+}
+.pages-shorts-heabsy_cnt_fon{
+    max-width: 743px;
+    width: 100%;
+    margin: 0 35px 0;
+    position: relative;
+
+}
+.pages-shorts-heabsy_cnt_fon:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50px;
+    width: 549px;
+    height: 599px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.pages-shorts-heabsy_cnt_flex .with-righteous_text{
+    margin: 0 25px;
+}
+
+#pages-shorts-heabsy_choose-bg{
+    background: #1A1A1A;
+    margin-top: 150px;
+}
+.pages-shorts-heabsy_choose-col{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.pages-shorts-heabsy_choose-img{
+    margin: -320px 0;
+}
+.pages-shorts-heabsy_choose-col .heabsy-scale-stylish_text{
+    max-width: 446px;
+    width: 100%;
+}
+.pages-shorts-heabsy_choose-col .heabsy-scale-stylish_text p{
+    color: #FFFFFF;
+    margin-top: 65px;
+}
+.pages-shorts-heabsy_circle .case-made-tactilely_circle {
+    content: "";
+    position: absolute;
+    top: auto;
+    bottom: 290px;
+    left: -250px;
+    background-repeat: no-repeat;
+    max-width: 600px;
+    width: 100%;
+    height: 600px;
+    background-size: contain;
+}
+.pages-shorts-denounce-with{
+    margin-top: 345px;
+}
+.pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon{
+    max-width: 999px;
+    width: 100%;
+}
+.pages-shorts-denounce-with .pages-shorts-heabsy_cnt_flex{
+    justify-content: space-between;
+    padding-right: 100px;
+}
+.pages-shorts-denounce-with .with-righteous_text{
+    max-width: 600px;
+}
+.pages-shorts-denounce-with .with-righteous_text strong + strong{
+    margin-top: 25px;
+    display: block;
+}
+.pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon:after {
+    max-width: 522px;
+    height: 900px;
+}
+.pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon img{
+    margin-top: 50px;
+}
+.about-shorts-heabsy_img{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;
+    margin-top: 130px;
+}
+
+.about-shorts-heabsy_img .pages-shorts-heabsy_cnt_fon{
+    max-width: 540px;
+    width: 100%;
+}
+.about-shorts-heabsy_img .pages-shorts-heabsy_cnt_fon img{
+    margin-top: -60px;
+}
+.about-shorts-heabsy_img  .pages-shorts-heabsy_cnt_fon:after {
+    max-width: 840px;
+    height: 400px;
+    left: 0;
+}
+.about-shorts-heabsy_img .case-made-tactilely_circle {
+    top: auto;
+    bottom: -10px;
+    left: -300px;
+    max-width: 738px;
+    height: 738px;
+}
+.must-explain_idea{
+    margin-top: 120px;
+    margin-bottom: 90px;
+}
+.must-explain_idea .pages-shorts-heabsy_cnt_fon:after{
+    display: none;
+}
+.must-explain_idea .complete-account-system{
+    max-width: 700px;
+    margin-top: -40px;
+}
+
+
+@media (max-width: 1700px){
+    .indignation-with-denounce_img:after {
+        width: 800px;
+        height: 541px;
+    }
+    .indignation-with-denounce_fon {
+        max-width: 850px;
+    }
+    .indignation-with-denounce .complete-account-system {
+        max-width: 450px;
+        margin-top: -100px;
+    }
+    .pages-shorts-heabsy_img img{
+        height: auto;
+    }
+    .pages-shorts-heabsy_cnt_flex {
+        margin-top: 120px;
+    }
+    .pages-shorts-heabsy_circle .case-made-tactilely_circle {
+        bottom: 490px;
+        left: -150px;
+        max-width: 450px;
+        height: 450px;
+    }
+    .pages-shorts-heabsy_choose-col .heabsy-scale-stylish_text p {
+        margin-top: 35px;
+    }
+    .with-righteous_text strong {
+        font-size: 40px;
+        line-height: 44px;
+    }
+    .about-shorts-heabsy_img .case-made-tactilely_circle {
+        left: -200px;
+        max-width: 538px;
+        height: 538px;
+    }
+    .must-explain_idea .complete-account-system {
+        max-width: 600px;
+        margin-top: -30px;
+    }
+}
+@media (max-width: 1500px){
+    .indignation-with-denounce_img:after {
+        width: 650px;
+        height: 481px;
+    }
+    .indignation-with-denounce .complete-account-system {
+        max-width: 400px;
+        margin-top: -50px;
+    }
+    .indignation-with-denounce {
+        padding-right: 20px;
+    }
+    .pages-shorts-heabsy_choose-img {
+        margin: -190px 0;
+        height: 700px;
+    }
+    .pages-shorts-heabsy_choose-img img{
+        height: 100%;
+    }
+    .pages-shorts-denounce-with {
+        margin-top: 245px;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_flex {
+        justify-content: space-between;
+        padding-right: 20px;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon:after {
+        max-width: 522px;
+        height: 600px;
+    }
+    .about-shorts-heabsy_img .pages-shorts-heabsy_cnt_fon {
+        max-width: 440px;
+        width: 100%;
+        height: 600px;
+        text-align: center;
+    }
+    .about-shorts-heabsy_img .pages-shorts-heabsy_cnt_fon img{
+        height: 100%;
+    }
+
+}
+
+@media (max-width: 1300px) {
+    .indignation-with-denounce_img:after {
+        width: 550px;
+        height: 421px;
+    }
+
+    .indignation-with-denounce .complete-account-system {
+        max-width: 350px;
+        margin-top: -50px;
+    }
+
+    .pages-shorts-heabsy_img img {
+        height: 100%;
+    }
+
+    .pages-shorts-heabsy_img {
+        max-width: 498px;
+        width: 100%;
+        margin-top: -200px;
+        margin-bottom: 0;
+        height: 650px;
+    }
+
+    .pages-shorts-heabsy_block {
+        padding: 0 20px 0 20px;
+        margin-top: 200px;
+    }
+
+    .pages-shorts-heabsy_cnt_fon:after {
+        left: 0;
+    }
+
+    .pages-shorts-heabsy_cnt_flex {
+        margin-top: 220px;
+    }
+
+    .pages-shorts-heabsy_cnt {
+        margin-top: 40px;
+    }
+
+    .pages-shorts-heabsy_circle .case-made-tactilely_circle {
+        bottom: 330px;
+        left: -150px;
+        max-width: 400px;
+        height: 400px;
+
+    }
+}
+
+@media (max-width: 1170px){
+    .indignation-with-denounce{
+        flex-direction: column-reverse;
+        padding: 0 20px;
+        align-items: center;
+        text-align: center;
+    }
+    .indignation-with-denounce_fon {
+        max-width: 700px;
+        margin: 50px 0;
+    }
+    .pages-shorts-heabsy_cnt_flex {
+        margin-top: 120px;
+        flex-direction: column-reverse;
+        text-align: center;
+        align-items: center;
+    }
+    .pages-shorts-heabsy_cnt_flex:nth-child(even) {
+        flex-direction: column-reverse;
+        justify-content: flex-start;
+        text-align: center;
+    }
+    .pages-shorts-heabsy_cnt_fon {
+        max-width: 603px;
+        width: 100%;
+        margin: 30px 0 0;
+        position: relative;
+    }
+    .indignation-with-denounce .with-righteous_text {
+        margin-top: 50px;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon {
+        max-width: 609px;
+        width: 100%;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon:after {
+        max-width: 522px;
+        height: 500px;
+    }
+    .about-shorts-heabsy_img {
+        justify-content: center;
+        padding: 0 20px;
+        margin-top: 100px;
+    }
+    .must-explain_idea .pages-shorts-heabsy_cnt_flex{
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .must-explain_idea {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .must-explain_idea .complete-account-system {
+        max-width: 600px;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 992px){
+    .pages-shorts-heabsy_img{
+        display: none;
+    }
+    .pages-shorts-heabsy_block {
+        padding: 40px 20px 20px;
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .pages-shorts-heabsy_choose-img{
+        display: none;
+    }
+    .pages-shorts-heabsy_choose-col {
+        justify-content: center;
+        align-items: center;
+        padding: 35px 20px;
+    }
+    #pages-shorts-heabsy_choose-bg {
+        margin-top: 50px;
+    }
+    .pages-shorts-denounce-with {
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 768px){
+    .indignation-with-denounce .complete-account-system {
+        max-width: 350px;
+        margin-top: 30px;
+    }
+    .indignation-with-denounce_img:after {
+        width: 500px;
+        height: 391px;
+    }
+    .pages-shorts-heabsy_block {
+        margin-top: 0;
+    }
+    .pages-shorts-heabsy_cnt_flex {
+        margin-top: 60px;
+    }
+    .pages-shorts-heabsy_cnt_fon:after {
+        height: 499px;
+    }
+    .pages-shorts-heabsy_cnt_fon {
+        max-width: 403px;
+    }
+    .pages-shorts-heabsy_cnt_fon:after {
+        left: 50px;
+        max-width: 400px;
+        width: 100%;
+        height: 449px;
+    }
+    .pages-shorts-denounce-with{
+        padding: 0 20px;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_flex {
+        justify-content: center;
+        padding-right: 0;
+    }
+    .with-righteous_text strong {
+        font-size: 34px;
+        line-height: 35px;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon:after {
+        max-width: 422px;
+        height: 400px;
+    }
+}
+
+
+@media (max-width: 576px){
+    .with-righteous_text strong {
+        font-size: 33px;
+        line-height: 34px;
+    }
+    .indignation-with-denounce .with-righteous_text {
+        margin-top: 20px;
+    }
+    .indignation-with-denounce_img:after {
+        width: 270px;
+        height: 201px;
+    }
+    .indignation-with-denounce .complete-account-system {
+        max-width: 300px;
+    }
+    .pages-shorts-heabsy_cnt_fon:after {
+        left: 0;
+        max-width: 320px;
+        width: 100%;
+        height: 349px;
+    }
+    .pages-shorts-denounce-with .with-righteous_text strong {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon:after {
+        height: 300px;
+    }
+    .about-shorts-heabsy_img {
+        margin-top: 0;
+    }
+    .pages-shorts-denounce-with .pages-shorts-heabsy_cnt_fon {
+        height: 350px;
+    }
+    .must-explain_idea{
+        padding: 0 20px;
+    }
+}

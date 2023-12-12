@@ -1,0 +1,789 @@
+.lightweight-and-practical{
+    display: flex;
+    align-items: flex-start;
+}
+.lightweight-and-practical_img {
+    max-width: 1082px;
+    width: 100%;
+    margin-right: -175px;
+}
+.lightweight-and-practical .shirt-mexican-motives_block{
+    max-width: 877px;
+    width: 100%;
+    background: #FFFFFF;
+    padding: 63px 94px;
+    margin-top: 30px;
+    margin-right: 0;
+}
+.lightweight-and-practical .shirt-mexican-motives_block p{
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 23px;
+    font-family: 'HelveticaNeueCyr-Light';
+    color: #000000;
+    margin-top: 15px;
+}
+
+.stay-slim-preserve-beauty{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0 20px;
+    margin: 250px 0 200px;
+}
+
+.stay-slim-preserve-beauty .fitness-results-follow {
+    bottom: auto;
+    top: -80px;
+    width: 400px;
+    height: 400px;
+    left: -150px;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.stay-slim-preserve-beauty  .weigh-more-weigh_text {
+    max-width: 590px;
+    margin-right: -323px;
+}
+.stay-slim-preserve-beauty_img{
+    padding-top: 100px;
+    position: relative;
+}
+.stay-slim-preserve-beauty_img:after{
+    content: "";
+    position: absolute;
+    top: 47px;
+    left: 100px;
+    max-width: 555px;
+    width: 100%;
+    height: 614px;
+    background: #E6E6E6;
+    z-index: -1;
+}
+.combined-high-quality-case_img {
+    max-width: 553px;
+    width: 100%;
+    margin: -70px;
+    position: relative;
+}
+.combined-high-quality-case_ter{
+    position: absolute;
+    right: -122px;
+    top: 190px;
+    max-width: 313px;
+    width: 100%;
+}
+.combined-high-quality-case_info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 80px;
+    margin: 280px 0 0;
+}
+.combined-high-quality-case_info .heabsy-scale-stylish_text strong{
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.find-out-exactly-ingredients{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+    margin-bottom: 80px;
+}
+.find-out-exactly-ingredients_block{
+    position: relative;
+}
+.find-out-exactly-ingredients_block:after{
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 150px;
+    max-width: 752px;
+    width: 100%;
+    height: 440px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.find-out-exactly-ingredients_img{
+    margin-top: 85px;
+}
+.find-out-exactly-ingredients_img:first-child{
+    margin-left: 250px;
+}
+.find-out-exactly-ingredients_img:last-child{
+    margin-right: 250px;
+}
+.find-out-exactly-ingredients_text{
+    max-width: 750px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.simple-improving-fitness_main{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 20px;
+}
+.simple-improving-fitness_block{
+    display: flex;
+    position: relative;
+}
+.simple-improving-fitness_block:after {
+    content: "";
+    background: #F3F3F3;
+    max-width: 893px;
+    width: 100%;
+    height: 450px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+.simple-improving-fitness_img:first-child {
+    margin-right: -133px;
+    margin-top: -86px;
+}
+.simple-improving-fitness_img {
+    max-width: 434px;
+    width: 100%;
+}
+.simple-improving-fitness_img img{
+    object-fit: cover;
+}
+.simple-improving-fitness_img:last-child{
+    margin-top: 110px;
+}
+.simple-improving-fitness_main .weigh-more-weigh_text {
+    max-width: 480px;
+    margin-right: 0;
+    margin-top: 27px;
+    margin-left: -41px;
+}
+.simple-improving-fitness_main  .weigh-more-weigh_text span {
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 20px;
+    margin-bottom: 14px;
+    max-width: 421px;
+}
+.simple-improving-fitness_main {
+    margin-top: 250px;
+}
+
+.simple-improving-fitness_main .fitness-results-follow {
+    bottom: auto;
+    top: -143px;
+    left: 295px;
+}
+.scales-waterproof-fruits{
+    background: #000000;
+    margin-top: 150px;
+}
+.scales-waterproof-fruits_flower{
+    position: absolute;
+    top: -170px;
+}
+
+.scales-waterproof-fruits_cnt .combined-high-quality-case_info {
+    padding: 0 ;
+    margin:  0;
+}
+.scales-waterproof-fruits_cnt_flex{
+    display: flex;
+    padding: 0 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.scales-waterproof-fruits_kg{
+    margin-bottom: -80px;
+}
+.design_combined-case_title{
+    display: flex;
+    justify-content: flex-end;
+}
+.design_combined-case_title h2  {
+    max-width: 700px;
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 36px;
+    line-height: 41px;
+    color: #000000;
+}
+.design_combined-case{
+    margin-top: 250px;
+    margin-bottom: 80px;
+    padding: 10px 20px;
+}
+
+.design_combined-case_img{
+    max-width: 903px;
+    width: 100%;
+    margin-top: 100px;
+    margin-left: 230px;
+}
+.design_combined-case_img img{
+    width: 100%;
+}
+.design_combined-case_title{
+    margin-right: 200px;
+}
+.denouncing-pleasure-praising-born{
+    display: flex;
+    margin-top: 350px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+    padding: 0 20px;
+}
+.denouncing-pleasure-praising-born_block{
+    position: relative;
+    max-width: 645px;
+    width: 100%;
+}
+.denouncing-pleasure-praising-born_block:after{
+    content: "";
+    position: absolute;
+    top: -87px;
+    left: -75px;
+    max-width: 645px;
+    width: 100%;
+    height: 456px;
+    background: #F7F7F7;
+    z-index: -1;
+}
+.denouncing-pleasure-praising-born_block img + img{
+    position: absolute;
+    top: -25px;
+    left: 50px;
+}
+.denouncing-pleasure-praising-born .weigh-more-weigh_text span {
+    margin-top: 20px;
+    margin-bottom: 24px;
+    max-width: 466px;
+}
+
+.restaurant-at_home .denouncing-pleasure-praising-born_block img:first-child{
+    margin-top: -220px;
+    margin-left: 192px;
+}
+.denouncing-pleasure-praising-born_block img:nth-child(2) {
+    left: -60px;
+    top: -125px;
+}
+.denouncing-pleasure-praising-born_block img:nth-child(3) {
+    position: absolute;
+    top: -25px;
+    left: -354px;
+}
+.restaurant-at_home{
+    display: flex;
+    justify-content: center;
+}
+.restaurant-at_home .weigh-more-weigh_text {
+    margin: 0 -230px -531px -91px;
+}
+.good-taste-unusual{
+    width: 100%;
+    margin-bottom: 80px;
+    margin-top: 490px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+}
+.good-taste-unusual_block{
+    max-width: 1000px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+.good-taste-unusual_img{
+    margin-top: 60px;
+}
+.good-taste-unusual_img:after{
+    content: "";
+    position: absolute;
+    top: 75px;
+    right: 0;
+    max-width: 1307px;
+    width: 100%;
+    height: 663px;
+    background: #F7F7F7;
+    z-index: -12;
+}
+.good-taste-unusual_img_aps{
+    position: absolute;
+    max-width: 620px;
+    width: 100%;
+    right: 314px;
+    top: 133px;
+    z-index: -1;
+}
+.design_combined-case_aps_circle{
+    overflow: hidden;
+}
+.design_combined-case_aps_circle .fitness-results-follow {
+    bottom: auto;
+    top: 33%;
+    left: auto;
+    right: -150px;
+    max-width: 444px;
+    width: 100%;
+    height: 444px;
+}
+
+@media (max-width: 1700px){
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(2) {
+        left: -40px;
+        top: -133px;
+    }
+   .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(3) {
+        position: absolute;
+        top: -35px;
+        left: -271px;
+    }
+    .denouncing-pleasure-praising-born_block img:nth-child(2) {
+        left: 73px;
+        top: -71px;
+    }
+}
+@media (max-width: 1500px){
+    .stay-slim-preserve-beauty .fitness-results-follow {
+        top: -212px;
+        width: 350px;
+        height: 350px;
+        left: -150px;
+    }
+    .stay-slim-preserve-beauty_img {
+        max-width: 790px;
+    }
+    .combined-high-quality-case_img {
+        max-width: 453px;
+    }
+    .combined-high-quality-case_ter {
+        right: -80px;
+        top: 175px;
+        max-width: 213px;
+    }
+    .scales-waterproof-fruits_kg {
+        max-width: 600px;
+    }
+    .design_combined-case {
+        margin-top: 150px;
+        margin-bottom: 0;
+    }
+    .denouncing-pleasure-praising-born {
+        margin-top: 200px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:first-child {
+        margin-top: -110px;
+        margin-left: 180px;
+        max-width: 350px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(2) {
+        left: -34px;
+        top: -44px;
+        max-width: 350px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(3) {
+        position: absolute;
+        top: 40px;
+        left: -171px;
+        max-width: 350px;
+    }
+    .good-taste-unusual {
+        margin-top: 300px;
+    }
+    .design_combined-case_aps_circle .fitness-results-follow {
+        top: 41%;
+        max-width: 344px;
+        height: 344px;
+    }
+
+}
+@media (max-width: 1300px){
+    .stay-slim-preserve-beauty_img {
+        max-width: 600px;
+    }
+    .stay-slim-preserve-beauty_img:after {
+        top: 47px;
+        left: 100px;
+        max-width: 509px;
+        height: 414px;
+    }
+    .combined-high-quality-case_info {
+        padding: 0 20px;
+        margin: 150px 0 0;
+    }
+    .find-out-exactly-ingredients {
+        margin-top: 100px;
+        margin-bottom: 0;
+    }
+    .find-out-exactly-ingredients_img {
+        margin-top: 62px;
+    }
+    .find-out-exactly-ingredients_img:last-child {
+        margin-right: 180px;
+    }
+    .find-out-exactly-ingredients_img:first-child {
+        margin-left: 180px;
+    }
+    .find-out-exactly-ingredients_block:after {
+        top: 31px;
+        max-width: 702px;
+        height: 400px;
+    }
+    .simple-improving-fitness_main {
+        margin-top: 130px;
+    }
+    .simple-improving-fitness_block:after {
+        max-width: 603px;
+        height: 400px;
+    }
+    .simple-improving-fitness_img {
+        max-width: 334px;
+    }
+    .simple-improving-fitness_img:first-child {
+        margin-top: -47px;
+    }
+    .scales-waterproof-fruits_kg {
+        max-width: 450px;
+    }
+    .scales-waterproof-fruits_flower {
+        position: absolute;
+        top: -100px;
+        max-width: 400px;
+    }
+    .design_combined-case {
+        margin-top: 120px;
+    }
+    .design_combined-case_img {
+        max-width: 803px;
+        margin-top: 50px;
+        margin-left: 130px;
+    }
+    .denouncing-pleasure-praising-born {
+        margin-top: 150px;
+        padding: 0 20px;
+    }
+    .denouncing-pleasure-praising-born_block {
+        max-width: 545px;
+    }
+    .denouncing-pleasure-praising-born .weigh-more-weigh_text {
+        max-width: 440px;
+        margin-right: 0;
+    }
+    .restaurant-at_home .weigh-more-weigh_text {
+        margin: 0 0 -522px -89px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img {
+        max-width: 300px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:first-child {
+        margin-top: -52px;
+        margin-left: 155px;
+        max-width: 300px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(2) {
+        left: -24px;
+        top: 10px;
+        max-width: 300px;
+    }
+    .denouncing-pleasure-praising-born_block {
+        max-width: 460px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(3) {
+        position: absolute;
+        top: 74px;
+        left: -135px;
+        max-width: 300px;
+    }
+   .find-out-exactly-ingredients_text  .weigh-more-weigh_text {
+        max-width: 440px;
+        margin-right: -119px;
+        margin-top: 20px;
+    }
+    .lightweight-and-practical .shirt-mexican-motives_block {
+        max-width: 607px;
+        padding: 31px 31px;
+    }
+}
+
+@media (max-width: 1170px){
+    .lightweight-and-practical  .shirt-mexican-motives_block h1 {
+        font-size: 75px;
+    }
+    .lightweight-and-practical .shirt-mexican-motives_block {
+        max-width: 557px;
+    }
+    .lightweight-and-practical .shirt-mexican-motives_block span {
+        font-size: 30px;
+        line-height: 28px;
+    }
+    .combined-high-quality-case_info .heabsy-scale-stylish_text strong {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .combined-high-quality-case_img {
+        max-width: 353px;
+        margin: -30px;
+    }
+    .find-out-exactly-ingredients_img:last-child {
+        margin-right: 100px;
+    }
+    .find-out-exactly-ingredients_img:first-child {
+        margin-left: 100px;
+    }
+    .scales-waterproof-fruits {
+        margin-top: 0;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(2) {
+        left: 42px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(3) {
+        left: -60px;
+    }
+    .denouncing-pleasure-praising-born_block img{
+        max-width: 300px;
+    }
+    .good-taste-unusual {
+        padding: 0 20px;
+    }
+    .good-taste-unusual_img_aps {
+        max-width: 420px;
+        right: 214px;
+        top: 123px;
+    }
+}
+@media (max-width: 992px){
+    .lightweight-and-practical_img {
+        margin-right: 0;
+    }
+    .lightweight-and-practical .shirt-mexican-motives_block {
+        max-width: 507px;
+        position: absolute;
+        padding: 10px 22px 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .lightweight-and-practical{
+        position: relative;
+    }
+    .stay-slim-preserve-beauty .weigh-more-weigh_text {
+        max-width: 590px;
+        margin-right: 0;
+    }
+    .stay-slim-preserve-beauty {
+        margin: 29px 0 0;
+        flex-direction: column;
+        align-items: center;
+    }
+    .combined-high-quality-case_info {
+        margin: 79px 0 0;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+        padding-top: 30px;
+    }
+    .combined-high-quality-case_img {
+        max-width: 353px;
+        margin: 34px 0  0;
+    }
+    .find-out-exactly-ingredients_img:first-child {
+        margin-left: 0;
+    }
+    .find-out-exactly-ingredients_img:last-child {
+        margin-right: 0;
+    }
+    .find-out-exactly-ingredients {
+        margin-top: 30px;
+        margin-bottom: 0;
+        padding: 0 20px;
+    }
+    .find-out-exactly-ingredients_text {
+        justify-content: center;
+    }
+    .find-out-exactly-ingredients_block:after {
+        top: 31px;
+        max-width: 602px;
+        height: 400px;
+        right: 0;
+        left: 0;
+    }
+    .find-out-exactly-ingredients_text .weigh-more-weigh_text {
+        margin-right: 0;
+        margin-top:20px;
+    }
+    .simple-improving-fitness_main .weigh-more-weigh_text {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .simple-improving-fitness_main {
+        margin-top: 30px;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .scales-waterproof-fruits_cnt_flex {
+        align-items: center;
+        flex-direction: column;
+        padding-top: 40px;
+    }
+    .scales-waterproof-fruits_flower {
+        position: absolute;
+        top: 180px;
+        max-width: 400px;
+    }
+    .design_combined-case_title h2 {
+        max-width: 700px;
+        font-size: 28px;
+        line-height: 34px;
+        text-align: center;
+    }
+    .design_combined-case_title {
+        margin-right: 0;
+        justify-content: center;
+    }
+    .design_combined-case_img {
+        max-width: 703px;
+        margin-top: 50px;
+        margin-left: 0;
+    }
+    .denouncing-pleasure-praising-born{
+        flex-direction: column-reverse;
+        align-items: center;
+        margin-top: 30px;
+    }
+    .denouncing-pleasure-praising-born_block {
+        max-width: 460px;
+        margin-top: 74px;
+    }
+    .restaurant-at_home .weigh-more-weigh_text {
+        margin: 0;
+    }
+    .good-taste-unusual {
+        margin-top: 200px;
+    }
+    .good-taste-unusual_block {
+        justify-content: center;
+    }
+    .good-taste-unusual_img {
+        margin-top: 90px;
+        max-width: 500px;
+    }
+    .good-taste-unusual_img_aps {
+        max-width: 319px;
+        right: 67px;
+        top: 168px;
+    }
+
+}
+
+@media (max-width: 768px){
+    .lightweight-and-practical .shirt-mexican-motives_block h1 {
+        font-size: 55px;
+    }
+    .lightweight-and-practical .shirt-mexican-motives_block span {
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .lightweight-and-practical .shirt-mexican-motives_block p {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .stay-slim-preserve-beauty_img {
+        padding-top: 20px;
+        position: relative;
+    }
+    .stay-slim-preserve-beauty_img:after {
+        top: 1px;
+        left: 0;
+        max-width: 509px;
+        height: 227px;
+    }
+    .combined-high-quality-case_info .heabsy-scale-stylish_text strong {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .combined-high-quality-case_img {
+        max-width: 353px;
+        margin: 0 0 0;
+    }
+    .combined-high-quality-case_ter{
+        display: none;
+    }
+    .find-out-exactly-ingredients_img {
+        margin-top: 32px;
+    }
+    .find-out-exactly-ingredients_block:after {
+        height: 300px;
+    }
+    .simple-improving-fitness_main {
+        margin-top: 0;
+    }
+    .simple-improving-fitness_img {
+        max-width: 200px;
+    }
+    .simple-improving-fitness_img:first-child {
+        margin-top: -7px;
+    }
+    .simple-improving-fitness_block {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .simple-improving-fitness_img:first-child {
+        margin-top: 0;
+        margin-right: 0;
+    }
+    .simple-improving-fitness_img:last-child {
+        margin-top: 0;
+    }
+    .design_combined-case_title h2 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .design_combined-case_img {
+        margin-top: 23px;
+    }
+    .denouncing-pleasure-praising-born_block .weigh-more-weigh_text h2 {
+        font-size: 24px;
+        line-height: 21px;
+    }
+    .denouncing-pleasure-praising-born_block img:nth-child(2){
+        display: none;
+    }
+    .denouncing-pleasure-praising-born_block {
+        margin-top: 0;
+    }
+    .denouncing-pleasure-praising-born_block img {
+        max-width: 266px;
+    }
+    .denouncing-pleasure-praising-born_block:after {
+        top: -91px;
+        left: 0;
+        max-width: 652px;
+        height: 396px;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:nth-child(3){
+        display: none;
+    }
+    .restaurant-at_home .denouncing-pleasure-praising-born_block img:first-child {
+        margin-top: 32px;
+        margin-left: 0;
+        max-width: 269px;
+    }
+    .good-taste-unusual {
+        margin-top: 4px;
+    }
+    .good-taste-unusual_img_aps {
+        max-width: 219px;
+        right: 0;
+        top: 130px;
+    }
+}

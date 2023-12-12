@@ -1,0 +1,574 @@
+.t-shirt-david-look{
+    max-width: 1711px;
+    width: 100%;
+    height: 995px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.t-shirt-david-look_img{
+    max-width: 1374px;
+    width: 100%;
+    margin: 0 auto;
+}
+.t-shirt-david-look_aps{
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    max-width: 634px;
+    width: 100%;
+    background: #FFFFFF;
+    padding: 44px 44px 0;
+}
+.t-shirt-david-look_aps h2{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -0.1em;
+    color: #000000;
+
+}
+.t-shirt-david-look_ese{
+    display: flex;
+    align-content: center;
+    margin-top: 15px;
+}
+.t-shirt-david-look_ese p{
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    max-width: 267px;
+    width: 100%;
+    margin-left: 10px;
+}
+
+.history-of-creation{
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+    margin: 250px 0 120px;
+}
+.history-of-creation_men{
+    max-width: 472px;
+    width: 100%;
+}
+
+
+.history-of-creation_face{
+    margin-top: -50px;
+    margin-left: -107px;
+}
+.history-of-creation .weigh-more-weigh_text {
+    margin-right: -125px;
+}
+.history-of-creation_circle .case-made-tactilely_circle {
+    top: -70px;
+    left: auto;
+    right: 245px;
+    max-width: 588px;
+    height: 588px;
+    z-index: -1;
+}
+
+.david-view-idea{
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    margin: 220px 0 0;
+}
+.david-view-idea:before{
+    content: "";
+    position: absolute;
+    top: 100px;
+    left: 0;
+    width: 100%;
+    height: 130px;
+    background-image: url("../img/heabsy-decor.png");
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+.david-view-idea_line {
+    max-width: 770px;
+    width: 100%;
+    margin-bottom: -428px;
+    z-index: -1;
+}
+.david-view-idea_line img{
+    width: 100%;
+}
+
+.david-view-idea_img {
+    margin-left: -120px;
+}
+.david-view-idea .weigh-more-weigh_text {
+    margin-right: 0;
+    margin-left: -60px;
+    margin-bottom: -100px;
+    max-width: 556px;
+}
+.david-view-idea .weigh-more-weigh_text span {
+    max-width: 416px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.david-view-idea .weigh-more-weigh_text p {
+    max-width: 416px;
+}
+.img-width_i{
+    margin-top: 420px;
+}
+.symbol-love-and-light{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+    margin-top: 120px;
+}
+.symbol-love-and-light .weigh-more-weigh_text {
+    max-width: 650px;
+}
+.symbol-love-and-light_img {
+    margin-right: -35px;
+    margin-left: -450px;
+}
+
+.symbol-love-and-light .weigh-more-weigh_text span {
+    max-width: 100%;
+}
+.symbol-love-and-light .weigh-more-weigh_text p {
+    max-width: 100%;
+}
+.symbol-love-and-light_photo {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -190px;
+}
+
+.pleasant-to-the-touch{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin: 40px 0 120px;
+}
+
+.pleasant-to-the-touch_title .weigh-more-weigh_text {
+    max-width: 540px;
+    margin-right: 0;
+    margin-top: 20px;
+}
+.pleasant-to-the-touch_title{
+    max-width: 500px;
+    width: 100%;
+    margin-left: 44px;
+}
+.pleasant-to-the-touch_title span{
+    font-family: 'HelveticaNeueCyr-Light';
+    font-size: 24px;
+    line-height: 24px;
+    color: #000000;
+    display: block;
+    margin-top: 18px;
+    margin-bottom: 25px;
+}
+.pleasant-to-the-touch_icon{
+    display: flex;
+    align-items: center;
+}
+.pleasant-to-the-touch_icon img{
+    margin-right: 10px;
+}
+.marg-right_unset{
+    margin-right: 0;
+}
+.the-perfect_gift{
+    display: flex;
+    justify-content: center;
+    margin: 350px 0 150px;
+}
+.the-perfect_gift_circle_img{
+    margin-top: -50px;
+    margin-right: -80px;
+}
+.the-perfect_gift_circle .case-made-tactilely_circle {
+    top: -150px;
+    left: 22%;
+    z-index: -1;
+    max-width: 560px;
+    width: 100%;
+    height: 560px;
+}
+
+.the-perfect_gift .weigh-more-weigh_text p{
+    margin-top: 20px;
+}
+.the-perfect_gift_flex {
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media (max-width: 1740px){
+    .t-shirt-david-look {
+        height: 895px;
+    }
+
+    .history-of-creation {
+        padding: 150px 100px 0;
+        margin: 100px 0 120px;
+        overflow: hidden;
+        position: relative;
+    }
+    .history-of-creation_circle .case-made-tactilely_circle {
+        top: 50px;
+        right: 105px;
+        max-width: 548px;
+        height: 548px;
+        z-index: -1;
+    }
+    .david-view-idea_line {
+        max-width: 700px;
+    }
+    .the-perfect_gift_circle .case-made-tactilely_circle {
+        top: -130px;
+        left: 16%;
+        max-width: 500px;
+        height: 500px;
+    }
+    .the-perfect_gift {
+        margin: 250px 0 100px;
+    }
+}
+
+@media (max-width: 1500px){
+    .t-shirt-david-look {
+        height: 805px;
+    }
+    .t-shirt-david-look_aps {
+        left: 40px;
+        max-width: 588px;
+        padding: 28px 28px 0;
+    }
+    .history-of-creation_men {
+        max-width: 372px;
+    }
+    .history-of-creation_circle .case-made-tactilely_circle {
+        top: 50px;
+        right: 60px;
+        max-width: 508px;
+        height: 508px;
+    }
+    .david-view-idea_line {
+        max-width: 500px;
+        margin-bottom: -325px;
+    }
+    .david-view-idea {
+        margin: 130px 0 0;
+    }
+    .david-view-idea:before {
+        top: 60px;
+    }
+    .david-view-idea_img {
+        margin-left: -45px;
+    }
+    .david-view-idea .weigh-more-weigh_text {
+        margin-right: 0;
+        margin-left: -35px;
+        margin-bottom: -120px;
+        max-width: 510px;
+    }
+    .img-width_i {
+        margin-top: 300px;
+    }
+    .symbol-love-and-light_img {
+        margin-right: -25px;
+        margin-left: -200px;
+    }
+    .symbol-love-and-light_photo {
+        margin-top: -100px;
+    }
+    .the-perfect_gift_img{
+        max-width: 490px;
+        width: 100%;
+    }
+    .the-perfect_gift {
+        margin: 200px 0 60px;
+    }
+    .the-perfect_gift_circle .case-made-tactilely_circle {
+        left: 15%;
+    }
+}
+
+@media (max-width: 1300px){
+    .t-shirt-david-look {
+        height: 700px;
+    }
+    .t-shirt-david-look_aps h2 {
+        font-size: 40px;
+        line-height: 38px;
+    }
+    .t-shirt-david-look_aps {
+        left: 35px;
+        max-width: 508px;
+        padding: 20px 20px 0;
+    }
+    .t-shirt-david-look_ese img{
+        max-width: 230px;
+    }
+    .history-of-creation {
+        padding: 100px 20px 0;
+        margin: 60px 0 30px;
+    }
+    .history-of-creation_circle .case-made-tactilely_circle {
+        top: 40px;
+        right: 50px;
+        max-width: 408px;
+        height: 408px;
+    }
+    .david-view-idea:before {
+        top: 0px;
+    }
+    .david-view-idea_line {
+        max-width: 400px;
+        margin-bottom: -215px;
+    }
+    .david-view-idea_img {
+        margin-left: -40px;
+        max-width: 320px;
+    }
+    .david-view-idea .weigh-more-weigh_text {
+        margin-right: 0;
+        margin-left: -35px;
+        margin-bottom: -107px;
+        max-width: 475px;
+    }
+    .img-width_i {
+        margin-top: 200px;
+    }
+    .symbol-love-and-light {
+        margin-top: 70px;
+    }
+    .the-perfect_gift_circle_img {
+        margin-top: -50px;
+        margin-right: -50px;
+        max-width: 290px;
+    }
+    .the-perfect_gift_circle .case-made-tactilely_circle {
+        left: 19%;
+        max-width: 400px;
+        height: 400px;
+        top: -110px;
+    }
+    .the-perfect_gift_img {
+        max-width: 390px;
+    }
+    .the-perfect_gift .weigh-more-weigh_text {
+        margin-top: 0px;
+    }
+    .symbol-love-and-light .weigh-more-weigh_text {
+        max-width: 490px;
+    }
+}
+@media (max-width: 1170px){
+    .t-shirt-david-look {
+        height: 600px;
+        padding: 0 20px;
+    }
+    .t-shirt-david-look_aps {
+        left: 25px;
+        max-width: 450px;
+    }
+    .t-shirt-david-look_aps h2 {
+        font-size: 36px;
+        line-height: 34px;
+    }
+    .t-shirt-david-look_ese p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .history-of-creation_circle{
+        display: none;
+    }
+    .history-of-creation .weigh-more-weigh_text {
+        margin-right: 0;
+        max-width: 440px;
+    }
+    .david-view-idea:before{
+        background-size: contain;
+    }
+    .david-view-idea_line{
+        display: none;
+    }
+    .david-view-idea {
+        margin: 100px 0 0;
+        padding: 0 20px;
+        justify-content: center;
+    }
+    .david-view-idea_img {
+        margin-left: 0;
+    }
+    .david-view-idea .weigh-more-weigh_text {
+        max-width: 420px;
+    }
+    .symbol-love-and-light_img {
+        margin-left: 0;
+        max-width: 400px;
+    }
+    .symbol-love-and-light .weigh-more-weigh_text {
+        max-width: 400px;
+        margin-right: 0;
+    }
+    .symbol-love-and-light_photo {
+        margin-top: -50px;
+        justify-content: center;
+        padding: 0 20px;
+    }
+    .pleasant-to-the-touch {
+        margin: 40px 0 10px;
+        padding: 0 20px;
+    }
+    .the-perfect_gift_circle .case-made-tactilely_circle {
+        left: 15%;
+        max-width: 350px;
+        height: 350px;
+        top: -95px;
+    }
+    .pleasant-to-the-touch_title {
+        max-width: 400px;
+        margin-left: 30px;
+    }
+}
+
+@media (max-width: 992px){
+    .t-shirt-david-look {
+        height: 500px;
+    }
+    .t-shirt-david-look_aps {
+        max-width: 400px;
+    }
+    .t-shirt-david-look_aps h2 {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .t-shirt-david-look_ese img {
+        max-width: 190px;
+    }
+    .history-of-creation {
+        padding: 0 20px 0;
+        margin: 50px 0 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .david-view-idea:before{
+        display: none;
+    }
+    .david-view-idea .weigh-more-weigh_text {
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+    .david-view-idea {
+        margin: 30px 0 0;
+        padding: 0 20px;
+        justify-content: center;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .david-view-idea_img{
+        margin-top: 25px;
+    }
+    .img-width_i {
+        margin-top: 50px;
+    }
+    .symbol-love-and-light{
+        margin-top: 40px;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .symbol-love-and-light_img{
+        margin-right: 0;
+    }
+    .pleasant-to-the-touch {
+        margin: 0 0 10px;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .pleasant-to-the-touch_title {
+        margin-left: 0;
+    }
+    .pleasant-to-the-touch_title span {
+        font-size: 22px;
+        line-height: 21px;
+        margin-top: 5px;
+        margin-bottom: 17px;
+        text-align: center;
+    }
+    .pleasant-to-the-touch_icon{
+        justify-content: center;
+    }
+    .pleasant-to-the-touch_img{
+        max-width: 500px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .pleasant-to-the-touch_title .weigh-more-weigh_text {
+        margin-top: 0px;
+    }
+    .the-perfect_gift {
+        margin: 50px 0 20px;
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .the-perfect_gift_circle_img {
+        display: none;
+    }
+    .the-perfect_gift_main{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}
+
+@media (max-width: 576px){
+    .symbol-love-and-light_photo{
+        display: none;
+    }
+    .pleasant-to-the-touch{
+        margin-top: 30px;
+    }
+    .t-shirt-david-look_aps {
+        max-width: 400px;
+        position: relative;
+        left: 0;
+        margin-top: 35px;
+
+    }
+    .t-shirt-david-look_ese{
+        flex-direction: column;
+        align-items: center;
+    }
+    .t-shirt-david-look {
+        height: auto;
+        padding: 90px 20px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .t-shirt-david-look_ese img {
+        max-width: 100%;
+    }
+    .t-shirt-david-look_ese p {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .t-shirt-david-look_aps h2 {
+        font-size: 28px;
+        line-height: 30px;
+        text-align: center;
+    }
+}

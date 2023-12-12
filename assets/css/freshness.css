@@ -1,0 +1,733 @@
+.healthiest-smoothies_bef:before{
+    content: "";
+    position: absolute;
+    top: -99px;
+    left: 0;
+    background: linear-gradient(180deg, #CFCFCF 0%, #E9E9E9 100%);
+    max-width: 790px;
+    width: 100%;
+    height: 900px;
+    z-index: -1;
+}
+.healthiest-smoothies{
+    display: flex;
+    align-items: center;
+    padding: 80px 100px 0;
+}
+.healthiest-smoothies_fon{
+    max-width: 478px;
+    width: 100%;
+    margin-left: 150px;
+}
+.healthiest-smoothies_fon img{
+    width: 100%;
+}
+
+.healthiest-smoothies .weigh-more-weigh_text{
+    margin-left: 190px;
+}
+.healthiest-smoothies .weigh-more-weigh_text span {
+    margin-bottom: 7px;
+}
+.what-smoothie-blender{
+    margin: 150px 0 130px;
+}
+.what-smoothie-blender_flex{
+    display: flex;
+    justify-content: center;
+    padding: 0 120px;
+}
+.what-smoothie-blender_block{
+    max-width: 780px;
+    width: 100%;
+    padding-top: 50px;
+    position: relative;
+    z-index: 88;
+
+}
+.what-smoothie-blender_block:before{
+    content: "";
+    background-image: url("../img/logo_numb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: -1;
+    max-width: 578px;
+    width: 100%;
+    height: 119px;
+}
+.what-smoothie-blender_end{
+    display: flex;
+    justify-content: flex-end;
+}
+.what-smoothie-blender_end h2{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 60px;
+    line-height: 48px;
+    letter-spacing: -0.105em;
+    color: #010103;
+    max-width: 443px;
+}
+.what-smoothie-blender_info{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 230px;
+}
+.what-smoothie-blender_text p{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.06em;
+    color: #010103;
+}
+.what-smoothie-blender_text span{
+    width: 54px;
+    height: 2px;
+    background: #010103;
+    display: block;
+    margin: 5px 0;
+}
+.what-smoothie-blender_text{
+    max-width: 330px;
+}
+.what-smoothie-blender_img{
+    margin-left: -110px;
+}
+.what-smoothie-blender_hidden{
+    padding-bottom: 150px;
+    overflow: hidden;
+}
+.what-smoothie-blender_hidden .case-made-tactilely_circle {
+    content: "";
+    position: absolute;
+    top: 230px;
+    left: auto;
+    right: -200px;
+    background-repeat: no-repeat;
+    max-width: 638px;
+    width: 100%;
+    z-index: -1;
+    height: 638px;
+    background-size: contain;
+}
+
+.enjoy-smart-design{
+    display: flex;
+    padding: 0 130px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.enjoy-smart-design_img{
+    max-width: 517px;
+    width: 100%;
+    margin-left: 290px;
+}
+
+.enjoy-smart-design_text{
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
+.enjoy-smart-design_text p{
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.06em;
+    color: #010103;
+    max-width: 290px;
+    width: 100%;
+}
+.enjoy-smart-design .weigh-more-weigh_text{
+    margin-left: 50px;
+}
+.enjoy-smart-design .weigh-more-weigh_text h2:first-child{
+    margin-left: -100px;
+}
+.enjoy-smart-design .fitness-results-follow {
+    bottom: 0px;
+    width: 250px;
+    height: 250px;
+    left: 279px;
+}
+.what-smoothie__in h2{
+    max-width: 380px;
+}
+.what-smoothie__in ul{
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+    margin-left: 130px;
+}
+
+.what-smoothie__in ul li{
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.06em;
+    color: #010103;
+    margin: 0 15px;
+}
+
+
+.minimalism-as_lifestyle .enjoy-smart-design_img {
+    max-width: 669px;
+    width: 100%;
+    margin-left: 0;
+}
+.minimalism-as_lifestyle {
+    align-items: unset;
+}
+
+.minimalism-as_lifestyle .weigh-more-weigh_text {
+    margin-right: 0;
+    margin-top: -55px;
+}
+.minimalism-as_lifestyle  .weigh-more-weigh_text h2:first-child {
+    margin-left: -61px;
+    max-width: 408px;
+}
+.minimalism-as_lifestyle  .weigh-more-weigh_text span{
+    margin-top: 15px;
+    margin-left: -61px;
+}
+.minimalism-as_lifestyle  .fitness-results-follow {
+    bottom: -116px;
+    width: 250px;
+    height: 250px;
+    left: 659px;
+}
+
+.fitness-blender-heabsy_cnt .what-smoothie-blender_end {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.fitness-blender-heabsy_cnt .what-smoothie-blender_block:before{
+    display: none;
+}
+.fitness-blender-heabsy_cnt .what-smoothie-blender_end h2 {
+    max-width: 693px;
+}
+.fitness-blender-heabsy_cnt .what-smoothie-blender_end p{
+    width: 100%;
+    text-align: left;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.3;
+    letter-spacing: -0.06em;
+    color: #010103;
+    margin-top: 15px;
+    margin-left: 100px;
+    max-width: 584px;
+}
+.fitness-blender-heabsy_cnt .what-smoothie-blender_img {
+    margin-left: -43px;
+}
+
+.fitness-blender-heabsy_cnt  .case-made-tactilely_circle {
+    top: 30px;
+    right: -290px;
+    max-width: 908px;
+    height: 908px;
+}
+.fitness-blender-heabsy_cnt .what-smoothie-blender_info{
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+.fitness-blender-heabsy_cnt .what-smoothie-blender_text{
+    margin-bottom: 40px;
+}
+.smoothie-on-click{
+    display: flex;
+    position: relative;
+}
+.smoothie-on-click:after{
+    content: "";
+    position: absolute;
+    top: 48%;
+    left: 0;
+    width: 100%;
+    height: 291px;
+    background-image: url("../img/Vector-69.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+.smoothie-on-click_img{
+    max-width: 665px;
+    width: 100%;
+}
+.smoothie-on-click .weigh-more-weigh_text{
+    margin-left: 90px;
+    margin-top: 140px;
+}
+.smoothie-on-click_text{
+    margin-top: 80px;
+    display: flex;
+
+}
+.smoothie-on-click_text p{
+    margin-right: 20px;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.06em;
+    color: #010103;
+}
+
+.operation-and-characteristics{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 80px;
+
+}
+.operation-and-characteristics .what-smoothie-blender_end {
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+}
+.operation-and-characteristics .what-smoothie-blender_end p{
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    letter-spacing: -0.06em;
+    color: #010103;
+    margin-top: 35px;
+    max-width: 330px;
+}
+.operation-and-characteristics .what-smoothie-blender_info {
+    margin-top: 130px;
+}
+.operation-and-characteristics  .what-smoothie-blender_img {
+    margin-left: -30px;
+}
+.operation-and-characteristics  .what-smoothie-blender_block:before{
+    display: none;
+}
+.motto-the-developer-fo{
+    background-repeat: repeat;
+    width: 100%;
+}
+.motto-the-developer{
+    padding: 160px;
+    margin: 65px 0;
+}
+.motto-the-developer .what-smoothie-blender_info {
+    display: flex;
+     justify-content: flex-start;
+    width: 100%;
+    margin-top: 130px;
+}
+.motto-the-developer-fo_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.motto-the-developer-fo_title h2{
+    font-size: 60px;
+    line-height: 48px;
+    letter-spacing: -0.105em;
+    color: #010103;
+    font-family: 'HelveticaNeueCyr-Bold';
+    max-width: 659px;
+}
+.motto-the-developer-fo_title span{
+    width: 128px;
+    height: 2px;
+    background: #010103;
+    display: block;
+}
+.motto-the-developer-fo_title p{
+    max-width: 225px;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.06em;
+    color: #010103;
+}
+.motto-the-developer  .what-smoothie-blender_text + .what-smoothie-blender_text{
+    margin-left: 35px;
+}
+.choose-your-color_foot {
+    margin: 150px 0 0;
+    padding: 0 20px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+}
+.choose-your-color_foot_title h2{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 60px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -0.105em;
+    color: #010103;
+
+}
+.choose-your-color_foot_title span{
+    width: 2px;
+    height: 81px;
+    background: #010103;
+    margin: 85px auto;
+    display: block;
+}
+
+.choose-your-color_foot_img{
+    max-width: 792px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.choose-your-color_foot .case-made-tactilely_circle {
+    top: auto;
+    left: 24%;
+    bottom: -600px;
+    z-index: -1;
+    max-width: 972px;
+    height: 972px;
+    background-size: cover;
+}
+
+
+@media (max-width: 1700px){
+    .enjoy-smart-design_img {
+        margin-left: 170px;
+    }
+    .choose-your-color_foot .case-made-tactilely_circle {
+        left: 18%;
+    }
+}
+
+@media (max-width: 1500px){
+    .healthiest-smoothies .weigh-more-weigh_text {
+        margin-left: 120px;
+        margin-right: -33px;
+    }
+    .healthiest-smoothies_fon {
+        margin-left: 50px;
+    }
+    .healthiest-smoothies_bef:before {
+        max-width: 700px;
+    }
+    .enjoy-smart-design .fitness-results-follow {
+        left: 179px;
+    }
+    .choose-your-color_foot .case-made-tactilely_circle {
+        left: 16%;
+        max-width: 872px;
+        height: 872px;
+    }
+    .enjoy-smart-design .weigh-more-weigh_text {
+        margin-left: 50px;
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 1300px){
+    .healthiest-smoothies {
+        padding: 55px 50px 0;
+    }
+    .healthiest-smoothies_bef:before {
+        max-width: 650px;
+        height: 833px;
+    }
+    .what-smoothie-blender_flex {
+        padding: 0 60px;
+    }
+    .what-smoothie-blender_hidden .case-made-tactilely_circle {
+        top: 130px;
+        right: -200px;
+        max-width: 538px;
+        height: 538px;
+    }
+    .fitness-blender-heabsy_cnt .case-made-tactilely_circle {
+        top: 30px;
+        right: -290px;
+        max-width: 708px;
+        height: 708px;
+    }
+    .enjoy-smart-design {
+        padding: 0 60px;
+    }
+    .smoothie-on-click_img {
+        max-width: 565px;
+    }
+    .smoothie-on-click .weigh-more-weigh_text {
+        margin-left: 50px;
+        margin-top: 140px;
+        margin-right: 0;
+    }
+    .what-smoothie-blender_hidden {
+        padding-bottom: 80px;
+    }
+    .operation-and-characteristics {
+        padding: 0 60px;
+    }
+    .operation-and-characteristics .what-smoothie-blender_end p {
+        margin-top: 16px;
+    }
+    .operation-and-characteristics .what-smoothie-blender_info {
+        margin-top: 70px;
+    }
+    .motto-the-developer {
+        padding: 90px 60px;
+        margin: 39px 0;
+    }
+    .choose-your-color_foot .case-made-tactilely_circle {
+        left: 20%;
+        max-width: 702px;
+        height: 702px;
+        bottom: -400px;
+    }
+}
+@media (max-width: 1170px){
+    .healthiest-smoothies_bef:before{
+        display: none;
+    }
+    .healthiest-smoothies_fon {
+        max-width: 328px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .healthiest-smoothies {
+        padding: 55px 20px 0;
+    }
+    .healthiest-smoothies {
+        padding: 55px 20px 0;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .healthiest-smoothies .weigh-more-weigh_text {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .what-smoothie-blender {
+        margin: 90px 0 50px;
+    }
+    .what-smoothie-blender_flex {
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .what-smoothie-blender_block:before{
+        display: none;
+    }
+    .what-smoothie-blender_block {
+        padding-top: 0;
+    }
+    .what-smoothie-blender_info {
+        margin-top: 40px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .what-smoothie-blender_text span{
+        margin: 5px auto;
+    }
+    .what-smoothie-blender_end {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .what-smoothie-blender_end h2 {
+        font-size: 40px;
+        line-height: 42px;
+    }
+    .what-smoothie-blender_img {
+        margin-left: 0;
+        margin-top: 35px;
+    }
+    .enjoy-smart-design {
+        padding: 0 20px;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .what-smoothie-blender_hidden {
+        padding-bottom: 0;
+    }
+    .enjoy-smart-design .weigh-more-weigh_text {
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+    }
+    .enjoy-smart-design .weigh-more-weigh_text h2:first-child {
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+    }
+    .enjoy-smart-design_img {
+        margin-left: 0;
+    }
+    .enjoy-smart-design_text {
+        margin-top: 31px;
+        display: flex;
+        justify-content: center;
+    }
+    .what-smoothie-blender {
+        margin: 0 0 40px;
+    }
+    .minimalism-as_lifestyle .weigh-more-weigh_text span {
+        margin-left: 0;
+    }
+    .minimalism-as_lifestyle .enjoy-smart-design_img {
+        max-width: 509px;
+    }
+    .fitness-blender-heabsy_cnt .what-smoothie-blender_end {
+        justify-content: center;
+        align-items: center;
+    }
+    .fitness-blender-heabsy_cnt .what-smoothie-blender_end p {
+        margin-top: 15px;
+        margin-left: 0;
+        text-align: center;
+        max-width: 584px;
+    }
+    .fitness-blender-heabsy_cnt .what-smoothie-blender_info {
+        margin-top: 15px;
+    }
+    .fitness-blender-heabsy_cnt .what-smoothie-blender_text {
+        margin-bottom: 20px;
+    }
+    .fitness-blender-heabsy_cnt .what-smoothie-blender_img {
+        margin-left: 0;
+    }
+    .smoothie-on-click {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .smoothie-on-click .smoothie-on-click_text {
+        margin-top: 0;
+    }
+    .smoothie-on-click .weigh-more-weigh_text {
+        margin-left: 0;
+        margin-top: 0;
+        margin-right: 0;
+    }
+    .smoothie-on-click_img {
+        max-width: 465px;
+    }
+    .operation-and-characteristics {
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 27px;
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .operation-and-characteristics .what-smoothie-blender_end {
+        align-items: center;
+        text-align: center;
+    }
+    .operation-and-characteristics .what-smoothie-blender_end p {
+        text-align: center;
+    }
+    .operation-and-characteristics .what-smoothie-blender_info {
+        margin-top: 50px;
+    }
+    .operation-and-characteristics .what-smoothie-blender_img {
+        margin-left: 0;
+        max-width: 500px;
+    }
+    .motto-the-developer-fo_title{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .motto-the-developer-fo_title span {
+        margin: 30px 0;
+    }
+    .motto-the-developer-fo_title h2 {
+        font-size: 46px;
+        line-height: 41px;
+    }
+    .motto-the-developer .what-smoothie-blender_text + .what-smoothie-blender_text {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .motto-the-developer .what-smoothie-blender_info {
+        margin-top: 50px;
+    }
+    .motto-the-developer {
+        padding: 90px 20px;
+    }
+    .choose-your-color_foot {
+        margin: 60px 0 0;
+        padding: 0 20px 30px;
+    }
+    .choose-your-color_foot_title h2 {
+        font-size: 46px;
+        line-height: 42px;
+    }
+    .choose-your-color_foot_title span {
+        margin: 45px auto;
+    }
+    .healthiest-smoothies_fon{
+        margin-bottom: 40px;
+    }
+    .what-smoothie__in ul {
+        margin-top: 25px;
+        margin-left: 0;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 576px){
+    .healthiest-smoothies {
+        padding: 15px 20px 0;
+    }
+    .weigh-more-weigh_text h2 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .what-smoothie-blender_end h2 {
+        font-size: 28px;
+        line-height: 33px;
+    }
+    .what-smoothie-blender_text p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .what-smoothie-blender_text span {
+        margin: 10px auto;
+    }
+    .what-smoothie__in ul{
+        flex-direction: column;
+    }
+    .what-smoothie__in ul li {
+        font-size: 16px;
+        line-height: 21px;
+        margin: 6px 0;
+    }
+    .smoothie-on-click .smoothie-on-click_text{
+        flex-direction: column;
+        align-content: center;
+    }
+    .smoothie-on-click_text p {
+        margin-right: 0;
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 15px;
+    }
+    .smoothie-on-click{
+        padding: 0 20px;
+    }
+    .motto-the-developer-fo_title h2 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .motto-the-developer-fo_title span {
+        margin: 15px 0;
+    }
+    .choose-your-color_foot_title h2 {
+        font-size: 28px;
+        line-height: 32px;
+    }
+}

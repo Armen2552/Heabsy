@@ -1,0 +1,623 @@
+.shirt-mexican-motives{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 0 90px;
+}
+.shirt-mexican-motives_block h1{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 144px;
+    line-height: 143px;
+    color: #000000;
+    position: relative;
+    z-index: 9;
+}
+.shirt-mexican-motives_block span{
+    font-size: 36px;
+    line-height: 36px;
+    color: #000000;
+}
+.shirt-mexican-motives_ao{
+    max-width: 887px;
+    width: 100%;
+    margin-left: 136px;
+}
+.shirt-mexican-motives_ao img{
+    width: 100%;
+}
+.shirt-mexican-motives_block{
+    margin-top: 142px;
+    margin-right: -261px;
+}
+
+.shirt-mexican-motives_photo{
+    max-width: 1150px;
+    width: 100%;
+    position: relative;
+}
+.shirt-mexican-motives_text{
+    position: absolute;
+    bottom: 99px;
+    left: 0;
+    max-width: 780px;
+    width: 100%;
+    background: #FFFFFF;
+    padding: 41px 44px;
+}
+.shirt-mexican-motives_text h2{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: -0.1em;
+    color: #000000;
+}
+.shirt-mexican-motives_text p{
+    margin-top: 24px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.history-of_pесурс{
+    display: flex;
+    justify-content: center;
+    padding: 0 20px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.history-of_pесурс_img{
+    position: relative;
+    max-width: 583px;
+    width: 100%;
+}
+.history-of_pесурс_cor {
+    position: absolute;
+    bottom: -86px;
+    left: -190px;
+    z-index: -1;
+}
+.history-of_pесурс_be{
+    margin-left: 50px;
+}
+.history-of_pесурс_be .with-righteous_text{
+    margin-top: 60px;
+}
+.history-of_pесурс_be .with-righteous_text span{
+    margin-top: 25px;
+    display: block;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.history-of_pесурс_be  .with-righteous_text p {
+    margin-top: 25px;
+    line-height: 22px;
+}
+.history-of_pесурс_system{
+    padding-top: 85px;
+    margin-bottom: 65px;
+}
+.vasco-concept_main{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 90px;
+    position: relative;
+}
+.vasco-concept__block{
+    display: flex;
+    align-items: flex-end;
+    padding-top: 261px;
+}
+.vasco-concept__block .with-righteous_text{
+    margin-right: 0;
+    margin-left: -27px;
+    margin-bottom: 40px;
+}
+.vasco-concept__block .with-righteous_text p{
+    line-height: 22px;
+}
+.vasco-concept_naxsh{
+    position: absolute;
+    max-width: 447px;
+    width: 100%;
+    top: 280px;
+    left: 34%;
+    z-index: -1;
+}
+.vasco-concept_naxsh img{
+    width: 100%;
+}
+.vasco-concept_naxsh_info{
+    max-width: 505px;
+    width: 100%;
+    margin-left: -160px;
+    position: relative;
+}
+.vasco-concept_naxsh_icon {
+    width: 133px;
+    position: absolute;
+    right: -65px;
+    bottom: 190px;
+}
+
+.viva-mexico_main{
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    padding: 0 30px;
+}
+.viva-mexico_img {
+    margin-top: -120px;
+    margin-bottom: -3px;
+    margin-left: -167px;
+}
+.the-author-idea-says{
+    display: flex;
+    justify-content: center;
+    margin: 200px 0 100px;
+    padding: 0 20px;
+}
+.the-author-idea-says_line{
+    position: absolute;
+    top: 32%;
+    z-index: -1;
+}
+.the-author-idea-says_block{
+    max-width: 600px;
+    width: 100%;
+    margin-top: 150px;
+    margin-left: -20px;
+}
+.the-author-idea-says_block_icon{
+    margin: 0 auto;
+    max-width: 441px;
+    width: 100%;
+}
+.the-author-idea-says_block .with-righteous_text{
+    max-width: 600px;
+    margin-top: 70px;
+}
+
+.soft-stylistics_main{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 100px;
+    margin-bottom: 80px;
+}
+.soft-stylistics_info{
+    display: flex;
+    align-items: flex-end;
+    margin-right: 30px;
+}
+.soft-stylistics_info>img{
+    margin-right: 15px;
+}
+.soft-stylistics_img{
+    position: relative;
+
+}
+.soft-stylistics_img:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 20px;
+    max-width: 530px;
+    width: 100%;
+    height: 630px;
+    background: linear-gradient(0deg, #E4E3EA, #E4E3EA);
+    z-index: -1;
+}
+
+.soft-stylistics_main .history-of_pесурс_system{
+    position: absolute;
+    width: 100%;
+    z-index: -11;
+    top: 400px;
+}
+.pages-mexican-motive_in{
+    align-items: center;
+    margin-bottom: 60px;
+    padding-top: 250px;
+}
+.pages-mexican-motive_in .fitness-results-follow {
+    bottom: auto;
+    top: 98px;
+    width: 287px;
+    height: 287px;
+    left: 151px;
+}
+
+@media (max-width: 1700px){
+    .pages-mexican-motive_in  .pleasant-to-the-touch_title {
+        max-width: 350px;
+        margin-left: 30px;
+    }
+    .pleasant-to-the-touch_img{
+        max-width: 750px;
+    }
+
+}
+
+@media (max-width: 1500px){
+    .shirt-mexican-motives_text{
+        bottom: auto;
+    }
+    .shirt-mexican-motives_photo img{
+        margin-bottom: -5px;
+    }
+    .shirt-mexican-motives_ao {
+        max-width: 687px;
+        margin-left: 100px;
+    }
+    .history-of_pесурс_img {
+        max-width: 483px;
+    }
+    .history-of_pесурс_cor {
+        bottom: -114px;
+        left: -120px;
+        max-width: 300px;
+    }
+    .history-of_pесурс_be {
+        margin-left: 30px;
+    }
+    .history-of_pесурс_be .with-righteous_text {
+        margin-top: 30px;
+    }
+    .history-of_pесурс_be .with-righteous_text p {
+        margin-top: 10px;
+        line-height: 20px;
+    }
+    .history-of_pесурс_be>img{
+        margin-left: 30px;
+    }
+    .history-of_pесурс_system {
+        padding-top: 0;
+        margin-bottom: 50px;
+    }
+    .vasco-concept_img{
+        max-width: 385px;
+    }
+    .vasco-concept_naxsh_info {
+        max-width: 405px;
+    }
+    .vasco-concept__block {
+        padding-top: 200px;
+    }
+    .vasco-concept_naxsh {
+        top: 205px;
+        left: 31%;
+    }
+    .viva-mexico_img {
+        margin-top: -110px;
+        margin-bottom: -3px;
+        margin-left: -148px;
+        max-width: 720px;
+    }
+    .viva-mexico_name{
+        max-width: 450px;
+    }
+    .the-author-idea-says_img{
+        max-width: 500px;
+    }
+    .the-author-idea-says_block {
+        max-width: 573px;
+        margin-top: 82px;
+        margin-left: -14px;
+    }
+    .the-author-idea-says_block_icon {
+        max-width: 341px;
+    }
+    .the-author-idea-says_block .with-righteous_text {
+        margin-top: 40px;
+    }
+    .soft-stylistics_main {
+        padding-top: 20px;
+        margin-bottom: 40px;
+    }
+    .pages-mexican-motive_in .pleasant-to-the-touch_title {
+        max-width: 320px;
+        margin-left: 30px;
+    }
+    .pleasant-to-the-touch_img {
+        max-width: 550px;
+    }
+    .pages-mexican-motive_in {
+        margin-bottom: 40px;
+        padding-top: 150px;
+    }
+    .pages-mexican-motive_in .fitness-results-follow {
+        top: 60px;
+        width: 270px;
+        height: 270px;
+        left: 100px;
+    }
+}
+@media (max-width: 1300px){
+    .shirt-mexican-motives_block h1 {
+
+        font-size: 120px;
+        line-height: 106px;
+
+    }
+    .shirt-mexican-motives_photo {
+        max-width: 600px;
+    }
+    .shirt-mexican-motives_text {
+        padding: 24px 24px;
+    }
+    .shirt-mexican-motives_text h2 {
+        font-size: 38px;
+        line-height: 40px;
+    }
+    .shirt-mexican-motives_text p {
+        margin-top: 14px;
+        line-height: 20px;
+    }
+    .shirt-mexican-motives_ao {
+        max-width: 487px;
+        margin-left: 50px;
+    }
+    .shirt-mexican-motives_block {
+        margin-top: 86px;
+        margin-right: -157px;
+    }
+    .history-of_pесурс {
+        margin-top: 60px;
+        margin-bottom: 91px;
+    }
+    .vasco-concept_main {
+        justify-content: space-around;
+    }
+    .vasco-concept__block {
+        padding-top: 100px;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+    }
+    .vasco-concept__block .with-righteous_text {
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    .vasco-concept_naxsh{
+        display: none;
+    }
+    .the-author-idea-says {
+        margin: 100px 0 70px;
+        padding: 0 20px;
+    }
+    .soft-stylistics_main{
+        padding: 0 20px;
+    }
+    .soft-stylistics_img {
+        max-width: 500px;
+    }
+    .soft-stylistics_img:after {
+        max-width: 476px;
+        height: 573px;
+    }
+    .shirt-mexican-motives {
+        margin-top: 20px;
+        justify-content: space-between;
+        padding: 0 20px;
+    }
+    .shirt-mexican-motives_block h1 {
+        font-size: 100px;
+    }
+    .history-of_pесурс_img {
+        max-width: 373px;
+    }
+    .history-of_pесурс_be {
+        max-width: 430px;
+    }
+    .history-of_pесурс_cor {
+        bottom: -20px;
+        left: -25px;
+    }
+    .vasco-concept__block {
+        max-width: 440px;
+    }
+    .viva-mexico_img {
+        margin-top: -110px;
+        margin-bottom: -3px;
+        margin-left: -114px;
+        max-width: 620px;
+    }
+    .the-author-idea-says_block {
+        max-width: 473px;
+        margin-top: 40px;
+    }
+    .the-author-idea-says_block_icon {
+        max-width: 291px;
+    }
+    .the-author-idea-says_line {
+        top: 20%;
+    }
+    .soft-stylistics_img:after {
+        max-width: 405px;
+        height: 480px;
+    }
+    .pages-mexican-motive_in .pleasant-to-the-touch_title {
+        margin-left: 0;
+    }
+    .pages-mexican-motive_in {
+        margin-bottom: 20px;
+        padding-top: 50px;
+    }
+
+}
+
+@media (max-width: 992px){
+    .shirt-mexican-motives{
+        flex-direction: column;
+        align-items: center;
+    }
+    .shirt-mexican-motives_ao{
+        display: none;
+    }
+    .shirt-mexican-motives_block {
+        margin-top: 0;
+        margin-right: 0;
+        text-align: center;
+    }
+    .shirt-mexican-motives_photo{
+        margin-top: 35px;
+    }
+    .shirt-mexican-motives_text {
+        position: relative;
+    }
+    .history-of_pесурс{
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .history-of_pесурс_be {
+        margin-left: 0;
+    }
+        .history-of_pесурс_be>img {
+            margin-left: 0;
+        }
+    .history-of_pесурс_img {
+        margin-top: 15px;
+    }
+    .history-of_pесурс_cor {
+        bottom: -80px;
+        left: -125px;
+    }
+    .vasco-concept_main{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .vasco-concept_img {
+        max-width: 385px;
+        margin: 0 auto;
+    }
+    .vasco-concept_naxsh_info {
+        max-width: 385px;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .vasco-concept_naxsh_icon {
+        bottom: 0;
+    }
+    .viva-mexico_main {
+        padding: 0 20px;
+        margin-top: 150px;
+    }
+    .viva-mexico_img {
+        margin-left: 0;
+        max-width: 455px;
+    }
+    .the-author-idea-says {
+        margin: 70px 0 70px;
+        padding: 0 20px;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .the-author-idea-says_block .with-righteous_text {
+        margin-top: 15px;
+    }
+    .the-author-idea-says_line {
+        top: 11%;
+    }
+    .soft-stylistics_main{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .soft-stylistics_info>img{
+        display: none;
+    }
+    .soft-stylistics_img {
+        max-width: 400px;
+        margin-top: 30px;
+    }
+    .soft-stylistics_img:after {
+        max-width: 350px;
+        height: 420px;
+    }
+    .history-of_pесурс_system{
+        display: none;
+    }
+}
+
+@media (max-width: 768px){
+    .shirt-mexican-motives_block h1 {
+        font-size: 80px;
+    }
+    .shirt-mexican-motives_text {
+        text-align: center;
+        padding: 24px 0;
+    }
+    .shirt-mexican-motives_text h2 {
+        font-size: 34px;
+        line-height: 33px;
+    }
+    .history-of_pесурс {
+        margin-bottom: 0;
+    }
+    .history-of_pесурс_cor{
+        display: none;
+    }
+    .vasco-concept__block{
+        padding-top: 0;
+    }
+    .soft-stylistics_info {
+        align-items: center;
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 576px){
+    .shirt-mexican-motives_block h1 {
+        font-size: 50px;
+        line-height: 56px;
+    }
+    .shirt-mexican-motives_block span {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .shirt-mexican-motives_text h2 {
+        font-size: 24px;
+        line-height: 27px;
+    }
+    .history-of_pесурс {
+        margin-top: 10px;
+    }
+    .history-of_pесурс_be .with-righteous_text span {
+        margin-top: 20px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .vasco-concept_main{
+        padding: 0 20px;
+    }
+    .vasco-concept_naxsh_icon{
+        display: none;
+    }
+    .viva-mexico_main {
+        margin-top: 50px;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 35px;
+    }
+    .viva-mexico_img{
+        margin-top: 0;
+    }
+    .the-author-idea-says_block_icon {
+        max-width: 251px;
+    }
+    .the-author-idea-says_block .with-righteous_text strong {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .soft-stylistics_img:after {
+        max-width: 242px;
+        height: 305px;
+    }
+}

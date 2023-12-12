@@ -1,0 +1,576 @@
+.pages-shorts_flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+}
+.pages-shorts_text{
+    max-width: 726px;
+    width: 100%;
+}
+.pages-shorts_text h2{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -0.1em;
+    color: #000000;
+    display: block;
+    text-align: left;
+}
+.pages-shorts_img{
+    max-width: 1000px;
+    width: 100%;
+    background: #222225;
+}
+.pages-shorts_img img{
+    margin-top: 50px;
+    margin-bottom: -150px;
+}
+.with-righteous-indignation{
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    margin-bottom: 50px;
+}
+.with-righteous-indignation_img{
+    max-width: 910px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.with-righteous-indignation_img img{
+    max-width: 650px;
+    width: 100%;
+    margin-right: 50px;
+}
+.with-righteous-indignation_img:before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    max-width: 745px;
+    width: 100%;
+    height: 500px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.with-righteous-indignation .with-righteous_text{
+    margin-bottom: 40px;
+}
+.with-righteous_text{
+    max-width: 495px;
+    width: 100%;
+}
+.with-righteous_text strong{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.1em;
+    text-transform: capitalize;
+    color: #000000;
+}
+.with-righteous_text p{
+    margin-top: 15px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #000000;
+}
+
+
+.will-give-you-system{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 80px;
+}
+.will-give-you-system_img{
+    max-width: 700px;
+    width: 100%;
+    position: relative;
+    height: 990px;
+}
+.will-give-you-system_img:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 90%;
+    background: #222225;
+    z-index: -1;
+}
+.will-give-you-system  .with-righteous_text{
+    margin-right: 50px;
+}
+.will-give-you-system .case-made-tactilely_circle {
+    top: 160px;
+    left: -190px;
+    max-width: 638px;
+    height: 638px;
+}
+
+.with-righteous_indignation{
+    display: flex;
+    align-items: center;
+}
+.with-righteous_indignation_img{
+    position: relative;
+    max-width: 1100px;
+    width: 100%;
+}
+.with-righteous_indignation_img img{
+    margin-top: 100px;
+}
+.with-righteous_indignation_img:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 653px;
+    width: 100%;
+    height: 1367px;
+    background: #222225;
+    z-index: -1;
+}
+.with-righteous_indignation .with-righteous_text{
+    margin-left: 50px;
+}
+.pleasure-praising-pain{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: -390px;
+}
+.pleasure-praising-pain .with-righteous_indignation_img{
+    max-width: 957px;
+}
+.pleasure-praising-pain .with-righteous_indignation_img:before{
+    height: 1064px;
+    left: auto;
+    right: 0;
+}
+.pleasure-praising-pain .with-righteous_text{
+    margin-bottom: 180px;
+}
+.with-righteous_indignation .case-made-tactilely_circle{
+    top: auto;
+    bottom: 400px;
+    left: 400px;
+    max-width: 504px;
+    height: 504px;
+}
+
+.denounce-with-indignation{
+    display: flex;
+    align-items: center;
+}
+.denounce-with-indignation_img{
+    max-width: 915px;
+    width: 100%;
+    position: relative;
+}
+.denounce-with-indignation_img:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 100px;
+    max-width: 696px;
+    width: 100%;
+    height: 1020px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.denounce-with-indignation .with-righteous_text{
+    max-width: 720px;
+}
+.denounce-with-indignation .with-righteous_text strong{
+    display: block;
+    margin-bottom: 15px;
+}
+.denounce-with-indignation .with-righteous_text strong + strong{
+    max-width: 520px;
+    width: 100%;
+}
+.denounce-with-indignation .with-righteous_text  p {
+    max-width: 520px;
+    width: 100%;
+}
+.complete-account-system_img{
+    display: flex;
+    align-items: center;
+}
+.complete-account-system_img img{
+    margin: 0 5px;
+}
+.denounce-with-indignation-righteous{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.denounce-with-indignation-righteous .with-righteous_text {
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.denounce-with-indignation-righteous .with-righteous_text strong{
+    max-width: 480px;
+    display: block;
+}
+.denounce-with-indignation-righteous_img{
+    width: 50%;
+}
+.denounce-with-indignation-righteous_img:after{
+    content: "";
+    position: absolute;
+    top: 40px;
+    right: 0;
+    max-width: 1009px;
+    width: 100%;
+    height: 438px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+
+.mistaken-denouncing-praising{
+    display: flex;
+    align-items: center;
+}
+.mistaken-denouncing-praising{
+    position: relative;
+}
+.mistaken-denouncing-praising .denounce-with-indignation-righteous_img:after{
+    content: "";
+    position: absolute;
+    top: -57px;
+    right: auto;
+    left: 0;
+    z-index: -1;
+    max-width: 913px;
+    width: 100%;
+    height: 561px;
+    background: #1A1A1A;
+}
+.mistaken-denouncing-praising .case-made-tactilely_circle {
+    top: 170px;
+    left: auto;
+    right: -40px;
+    max-width: 214px;
+    height: 214px;
+}
+
+@media (max-width: 1700px){
+    .pages-shorts_flex {
+        padding-left: 40px;
+    }
+    .with-righteous-indignation_img {
+        max-width: 859px;
+        justify-content: center;
+    }
+    .will-give-you-system .case-made-tactilely_circle {
+        top: 100px;
+        left: -220px;
+        max-width: 438px;
+        height: 438px;
+    }
+    .with-righteous_indignation_img {
+        max-width: 865px;
+    }
+    .with-righteous_indignation_img img{
+        width: 100%;
+    }
+    .with-righteous_indignation_img:before {
+        height: 1167px;
+    }
+    .pleasure-praising-pain .with-righteous_indignation_img {
+        max-width: 805px;
+    }
+    .pleasure-praising-pain {
+        margin-top: -290px;
+    }
+    .pleasure-praising-pain .with-righteous_text {
+        margin-bottom: 130px;
+    }
+    .pleasure-praising-pain .with-righteous_indignation_img:before {
+        height: 904px;
+    }
+    .denounce-with-indignation_img {
+        max-width: 670px;
+    }
+    .denounce-with-indignation_img:after {
+        max-width: 520px;
+        height: 772px;
+    }
+    .mistaken-denouncing-praising .denounce-with-indignation-righteous_img:after {
+        max-width: 650px;
+        height: 460px;
+    }
+    .denounce-with-indignation-righteous_img:after {
+        top: 120px;
+        max-width: 809px;
+        height: 438px;
+    }
+    .denounce-with-indignation-righteous{
+        margin-top: 80px;
+    }
+}
+@media (max-width: 1440px){
+    .pages-shorts_text h2 {
+        font-size: 44px;
+        line-height: 47px;
+    }
+    .with-righteous-indignation_img {
+        max-width: 559px;
+    }
+    .with-righteous-indignation_img:before {
+        bottom: 2px;
+        max-width: 445px;
+        height: 431px;
+    }
+    .will-give-you-system .with-righteous_text {
+        margin-right: 0;
+        padding-left: 20px;
+    }
+    .will-give-you-system_img {
+        max-width: 500px;
+        height: auto;
+    }
+    .will-give-you-system .case-made-tactilely_circle {
+        max-width: 338px;
+        height: 338px;
+    }
+    .with-righteous_indignation_img {
+        max-width: 559px;
+    }
+    .with-righteous_indignation_img:before {
+        height: 767px;
+    }
+    .pleasure-praising-pain {
+        margin-top: 46px;
+    }
+    .pleasure-praising-pain .with-righteous_indignation_img {
+        max-width: 605px;
+    }
+    .with-righteous_indignation .case-made-tactilely_circle {
+        top: auto;
+        bottom: 623px;
+        left: 400px;
+        max-width: 304px;
+        height: 304px;
+    }
+    .pleasure-praising-pain .with-righteous_indignation_img:before {
+        height: 704px;
+    }
+    .with-righteous_text strong {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .denounce-with-indignation-righteous_img:after {
+        max-width: 609px;
+    }
+    .mistaken-denouncing-praising .denounce-with-indignation-righteous_img:after {
+        max-width: 555px;
+        height: 383px;
+    }
+}
+
+
+@media (max-width: 1170px){
+    .pages-shorts_flex {
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pages-shorts_text h2 {
+        font-size: 40px;
+        line-height: 42px;
+        text-align: center;
+    }
+    .pages-shorts_img {
+        max-width: 600px;
+        margin-top: 30px;
+    }
+    .pages-shorts_img img {
+        margin-top: 0;
+        margin-bottom: -155px;
+    }
+    .with-righteous-indignation{
+        padding: 0 20px;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+        margin-top: 90px;
+    }
+    .with-righteous-indignation_img img {
+        max-width: 650px;
+        margin-right: 0;
+    }
+
+    .will-give-you-system{
+        flex-direction: column;
+        padding: 0 20px;
+        text-align: center;
+    }
+    .will-give-you-system_img{
+        margin-top: 30px;
+    }
+    .with-righteous_indignation{
+        flex-direction: column-reverse;
+        padding: 0 20px;
+        text-align: center;
+    }
+    .with-righteous_indignation .case-made-tactilely_circle{
+        display: none;
+    }
+    .pleasure-praising-pain{
+        flex-direction: column;
+        align-items: center;
+        padding: 0 20px;
+        margin-top: 90px;
+        text-align: center;
+    }
+    .pleasure-praising-pain .with-righteous_text {
+        margin-bottom: 30px;
+    }
+    .denounce-with-indignation{
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+        padding: 0 20px;
+    }
+    .denounce-with-indignation .with-righteous_text {
+        max-width: 720px;
+    }
+    .denounce-with-indignation .with-righteous_text strong + strong {
+        max-width: 720px;
+    }
+    .denounce-with-indignation .with-righteous_text p {
+        max-width: 720px;
+    }
+    .denounce-with-indignation_img {
+        max-width: 500px;
+    }
+    .denounce-with-indignation_img:after {
+        max-width: 520px;
+        height: 609px;
+        left: 0;
+    }
+    .complete-account-system{
+        margin-top: 20px;
+    }
+    .denounce-with-indignation-righteous{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 0 20px;
+    }
+    .denounce-with-indignation-righteous .with-righteous_text {
+        max-width: 100%;
+    }
+    .denounce-with-indignation-righteous_img:after {
+        max-width: 509px;
+        height: 438px;
+        top: 200px;
+    }
+    .mistaken-denouncing-praising{
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+        padding: 0 20px;
+    }
+    .denounce-with-indignation-righteous_img {
+        max-width: 550px;
+        width: 100%;
+    }
+    .mistaken-denouncing-praising .denounce-with-indignation-righteous_img:after {
+        max-width: 665px;
+        height: 349px;
+        top: 200px;
+    }
+}
+
+@media (max-width: 992px){
+    .with-righteous_text p {
+        line-height: 25px;
+    }
+    .with-righteous_text strong {
+        font-size: 34px;
+        line-height: 37px;
+    }
+    .with-righteous_indignation .with-righteous_text {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 768px){
+    .pages-shorts_text h2 {
+        font-size: 34px;
+        line-height: 35px;
+    }
+    .with-righteous-indignation_img {
+        max-width: 409px;
+        margin-top: 15px;
+    }
+    .with-righteous_indignation_img:before {
+        height: 627px;
+        top: 60px;
+    }
+    .pleasure-praising-pain .with-righteous_indignation_img:before {
+        height: 554px;
+    }
+    .will-give-you-system .with-righteous_text {
+        padding-left: 0;
+    }
+}
+
+@media (max-width: 576px){
+    .pages-shorts_text h2 {
+        font-size: 26px;
+        line-height: 27px;
+    }
+    .pages-shorts_img img {
+        margin-top: 0;
+        margin-bottom: 0px;
+    }
+    .with-righteous-indignation {
+        margin-top: 30px;
+    }
+    .with-righteous_text strong {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .with-righteous_text p {
+        line-height: 23px;
+        font-size: 16px;
+    }
+    .with-righteous-indignation_img:before {
+        height: 231px;
+    }
+    .will-give-you-system {
+        margin-top: 10px;
+    }
+    .with-righteous_indignation_img:before {
+        height: 356px;
+        top: 60px;
+    }
+    .pleasure-praising-pain {
+        margin-top: 30px;
+    }
+    .with-righteous_indignation_img img {
+        margin-top: 40px;
+    }
+    .pleasure-praising-pain .with-righteous_indignation_img:before {
+        height: 254px;
+        top: 37px;
+    }
+    .denounce-with-indignation_img:after {
+        max-width: 520px;
+        height: 320px;
+        left: 0;
+    }
+    .denounce-with-indignation-righteous_img:after {
+        max-width: 509px;
+        height: 226px;
+        top: 150px;
+    }
+}

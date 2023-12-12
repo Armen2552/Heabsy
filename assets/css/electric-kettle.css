@@ -1,0 +1,856 @@
+.electric-kettle_main{
+    background: #040404;
+}
+.stylish-powerful{
+    display: flex;
+    align-items: center;
+}
+.stylish-powerful_fon{
+    max-width: 840px;
+    width: 100%;
+    margin-left: 70px;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -200px;
+}
+.stylish-powerful_text{
+    max-width: 690px;
+    width: 100%;
+    margin-left: 80px;
+}
+.stylish-powerful_text strong{
+    margin-bottom: 15px;
+    display: block;
+    text-align: left;
+    font-family: 'HelveticaNeueCyr-Thin';
+    font-size: 48px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+
+.the-first-meeting{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding-top: 190px;
+}
+.the-first-meeting_main{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    max-width: 1350px;
+    width: 100%;
+}
+.the-first-meeting_name{
+    max-width: 917px;
+    width: 100%;
+
+}
+.the-first-meeting_flex{
+    display: flex;
+    margin-top: 200px;
+    width: 100%;
+}
+.the-first-meeting_text{
+    max-width: 443px;
+    width: 100%;
+}
+.the-first-meeting_text strong{
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.1em;
+    color: #000000;
+    font-family: 'HelveticaNeueCyr-Bold';
+}
+.the-first-meeting_text p{
+    margin-top: 50px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+.the-first-meeting_text span{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    display: block;
+}
+.the-first-meeting_chi{
+    max-width: 847px;
+    width: 100%;
+    height: 538px;
+    background: #F3F3F3;
+    margin-top: 120px;
+}
+.the-first-meeting_chi img{
+    margin-top: -300px;
+}
+
+.color-important_flex{
+    margin: 120px 0;
+    display: flex;
+}
+.color-important_block{
+    max-width: 1198px;
+    width: 100%;
+    height: 853px;
+    display: flex;
+    position: relative;
+}
+.color-important_block:after{
+    content: "";
+    position: absolute;
+    top: 333px;
+    left: 100px;
+    width: 100%;
+    height: 480px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.color-important_img{
+    position: absolute;
+    right: 359px;
+    top: -71px;
+    max-width: 304px;
+    width: 100%;
+}
+.color-important_left{
+    position: absolute;
+    left: 200px;
+    top: -24px;
+    max-width: 510px;
+    width: 100%;
+}
+.color-important_right{
+    position: absolute;
+    right: 149px;
+    top: 77px;
+    max-width: 619px;
+    width: 100%;
+    height: 864px;
+}
+
+.color-important_flex .the-first-meeting_text{
+    margin-top: 250px;
+    margin-left: -71px;
+}
+.color-important_flex .the-first-meeting_text span{
+    margin-top: 50px;
+}
+.color-important_flex .the-first-meeting_text p{
+    margin-top: 20px;
+}
+.over-hidden_cl{
+    overflow: hidden;
+}
+.over-hidden_cl .the-first-meeting_aps .case-made-tactilely_circle {
+    content: "";
+    position: absolute;
+    top: 690px;
+    left: -280px;
+    background-repeat: no-repeat;
+    max-width: 538px;
+    width: 100%;
+    height: 538px;
+    background-size: contain;
+}
+
+.over-hidden_cl .the-tow-meeting_aps .case-made-tactilely_circle {
+    top: auto;
+    left: auto;
+    right: -90px;
+    max-width: 538px;
+    height: 538px;
+    bottom: -290px;
+}
+
+.there-enough-water{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+}
+.there-enough-water_text{
+    max-width: 490px;
+    width: 100%;
+}
+.there-enough-water_text strong{
+    font-family: 'HelveticaNeueCyr-Bold';
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.1em;
+    color: #FFFFFF;
+}
+.there-enough-water_text p{
+    margin-top: 50px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.there-enough-water_img{
+    max-width: 1103px;
+    width: 100%;
+    margin-top: -35px;
+    margin-bottom: -3px;
+}
+.sec-logo_up{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 35px 0;
+}
+.sec-logo_up img{
+    max-width: 681px;
+}
+.attention-detail {
+    display: flex;
+    align-items: center;
+}
+.attention-detail .there-enough-water_text{
+    margin-left: 60px;
+}
+.attention-detail_img{
+    margin-bottom: -181px;
+}
+
+.reliable-practicalflex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding-left: 100px;
+}
+.reliable-practicalflex:after{
+    content: "";
+    position: absolute;
+    top: 240px;
+    right: 0;
+    max-width: 1287px;
+    width: 100%;
+    height: 741px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.reliable-practicalflex .there-enough-water_text strong{
+    color: #000000;
+}
+.reliable-practicalflex .there-enough-water_text p{
+    color: #000000;
+}
+.reliable-practicalflex_img{
+    height: 1418px;
+}
+.reliable-practicalflex_img img{
+    height: 100%;
+}
+.reliable-practicalflex  .there-enough-water_text {
+    max-width: 690px;
+}
+#reliable-practicalflex_name .case-made-tactilely_circle {
+    top: auto;
+    bottom: 30px;
+    left: -130px;
+    max-width: 446px;
+    height: 446px;
+}
+.ele-tow-info .the-first-meeting_chi{
+    background: unset;
+    position: relative;
+}
+.ele-tow-info .the-first-meeting_chi:after{
+    content: "";
+    position: absolute;
+    right: 63px;
+    max-width: 713px;
+    width: 100%;
+    height: 916px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.electric-pages-tow-fon:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 20%;
+    max-width: 841px;
+    width: 100%;
+    height: 863px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.electric-pages-tow-fon{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+    padding-left: 100px;
+    margin-top: 112px;
+}
+.electric-pages-tow-fon .there-enough-water_text{
+    margin-top: 90px;
+}
+.designed-scandinavian-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 170px;
+}
+.designed-scandinavian_block .there-enough-water_img{
+    max-width: 800px;
+    width: 100%;
+    position: relative;
+}
+.designed-scandinavian_block{
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+}
+.designed-scandinavian_block .there-enough-water_img img{
+    max-width: 646px;
+    width: 100%;
+}
+.designed-scandinavian_in{
+    max-width: 987px;
+    width: 100%;
+}
+.designed-scandinavian_in .the-first-meeting_text{
+    padding-left: 100px;
+}
+.designed-scandinavian_in  .color-important_block:after {
+    content: "";
+    top: 123px;
+    left: 0;
+    max-width: 978px;
+    width: 100%;
+    height: 1092px;
+}
+.designed-scandinavian_in .color-important_img {
+    right: 230px;
+    top: 0;
+}
+
+.designed-scandinavian_in .color-important_left {
+    left: 100px;
+    top: 97px;
+    max-width: 510px;
+    width: 100%;
+}
+
+.color-important_right {
+    right: 44px;
+    top: 177px;
+}
+.marg-left_in{
+    margin-left: 300px;
+}
+.designed-scandinavian-flex {
+    margin-top: 170px;
+    margin-bottom: 208px;
+}
+
+.designed-scandinavian_block .there-enough-water_img:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 809px;
+    width: 100%;
+    height: 384px;
+    background: #F3F3F3;
+    z-index: -1;
+}
+.designed-scandinavian_block  .there-enough-water_text{
+    margin-bottom: 50px;
+    text-align: left;
+}
+.designed-scandinavian_block  .there-enough-water_text strong{
+    color: #000000;
+    text-align: left;
+
+}
+.designed-scandinavian_block  .there-enough-water_text p{
+    color: #000000;
+    text-align: left;
+}
+.ele-ct-tow_in {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    height: 192px;
+    position: relative;
+    top: -111px;
+}
+.fon-elec-tow{
+    background: unset;
+}
+.fon-elec-tow:after{
+    content: "";
+    position: absolute;
+    top: -99px;
+    z-index: -1;
+    right: 0;
+    width: 70%;
+    height: 811px;
+    background: #040404;
+}
+.header-col .header-region ul li a {
+    color: #fff;
+}
+.ele-tow-info .the-first-meeting_chi:after {
+    height: 716px;
+}
+
+
+.attention-detail{
+    padding-left: 0;
+}
+
+.attention-detail:after {
+    content: "";
+    position: absolute;
+    top: 180px;
+    right: auto;
+    left: 100px;
+    z-index: -1;
+    max-width: 852px;
+    width: 100%;
+    height: 935px;
+    background: #C4C4C4;
+}
+.attention-detail .reliable-practicalflex_img {
+    height: 1188px;
+}
+.attention-detail {
+    padding-left: 0;
+    align-items: center;
+    margin-top: 70px;
+    text-align: center;
+}
+.attention-detail:after {
+    max-width: 607px!important;
+    height: 632px!important;
+    top: 185px!important;
+    left: 20% !important;
+}
+.attention-detail .reliable-practicalflex_img {
+    height: 908px;
+}
+@media (max-width: 1600px){
+    .reliable-practicalflex_img {
+        height: 1028px;
+    }
+    .reliable-practicalflex:after {
+        top: 240px;
+        max-width: 877px;
+        height: 500px;
+    }
+    #reliable-practicalflex_name{
+        margin-bottom: 70px;
+    }
+    #reliable-practicalflex_name .case-made-tactilely_circle {
+        bottom: -50px;
+        left: -192px;
+    }
+    .attention-detail_img {
+        max-width: 700px;
+    }
+    .color-important_right {
+        height: 725px;
+        max-width: 488px;
+    }
+    .color-important_right img{
+        height: 100%;
+        object-fit: cover;
+    }
+    .color-important_left {
+        left: 189px;
+        top: 1px;
+        max-width: 461px;
+    }
+    .color-important_img {
+        right: 289px;
+        top: -62px;
+    }
+    .sec-logo_up img {
+        max-width: 581px;
+    }
+
+
+    .designed-scandinavian_block {
+        max-width: 627px;
+    }
+
+}
+
+@media (max-width: 1440px){
+
+    .stylish-powerful_fon {
+        max-width: 777px;
+        height: 557px;
+        margin-left: 70px;
+        background-size: contain;
+        margin-bottom: -93px;
+    }
+    .electric-kettle_main .stylish-powerful_text {
+        max-width: 600px;
+        margin-left: 10px;
+        padding-right: 20px;
+    }
+    .electric-kettle_main  .stylish-powerful_text strong {
+        font-size: 38px;
+        line-height: 40px;
+    }
+    .the-first-meeting_name {
+        max-width: 707px;
+    }
+    .the-first-meeting_chi img {
+        margin-top: -280px;
+    }
+    .the-first-meeting_chi {
+        max-width: 847px;
+        height: 566px;
+        margin-top: 80px;
+    }
+    .the-first-meeting_flex{
+        padding-left: 20px;
+    }
+    .color-important_left {
+        left: 40px;
+        top: 1px;
+        max-width: 400px;
+    }
+    .color-important_right {
+        height: 605px;
+        max-width: 373px;
+    }
+    .color-important_img {
+        right: 222px;
+        top: -62px;
+    }
+    .color-important_block:after {
+        top: 333px;
+        left: 40px;
+        height: 300px;
+    }
+    .there-enough-water_text strong {
+        font-size: 49px;
+        line-height: 54px;
+    }
+    .attention-detail .there-enough-water_text {
+        margin-left: 31px;
+    }
+    .there-enough-water_text p {
+        margin-top: 25px;
+        font-size: 18px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+    .reliable-practicalflex_img {
+        height: 928px;
+    }
+.reliable-practicalflex .there-enough-water_text {
+    max-width: 505px;
+}
+    .reliable-practicalflex:after {
+        max-width: 707px;
+        height: 503px;
+    }
+    .out-intem{
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 218px;
+        margin-bottom: 70px;
+    }
+    .ele-ct-tow_in{
+        display: none;
+    }
+
+}
+
+@media (max-width: 1170px){
+    .the-first-meeting_chi {
+        height: auto;
+        margin-top: 80px;
+    }
+    .the-first-meeting {
+        padding-top: 120px;
+    }
+    .color-important_flex {
+        margin: 70px 0;
+    }
+    .color-important_flex .the-first-meeting_text {
+        margin-top: 200px;
+        margin-left: -29px;
+    }
+    .color-important_block {
+        height: 668px;
+    }
+    .sec-logo_up img {
+        max-width: 441px;
+        width: 100%;
+    }
+    .sec-logo_up{
+        flex-wrap: wrap;
+    }
+    .the-first-meeting_text strong {
+        font-size: 46px;
+        line-height: 40px;
+    }
+    .color-important_flex .the-first-meeting_text span {
+        margin-top: 20px;
+    }
+    .color-important_left {
+        left: 0;
+        top: 1px;
+        max-width: 354px;
+    }
+    .color-important_right {
+        top: 40px;
+    }
+    .color-important_img {
+        right: 65px;
+        top: -83px;
+    }
+    .reliable-practicalflex {
+        padding-left: 20px;
+    }
+    .reliable-practicalflex_img {
+        height: 628px;
+    }
+    .reliable-practicalflex:after {
+        max-width: 607px;
+        height: 403px;
+        top: 120px;
+    }
+    #reliable-practicalflex_name {
+        margin-bottom: 0px;
+    }
+    .designed-scandinavian_block .there-enough-water_text {
+        padding-left: 20px;
+    }
+}
+@media (max-width: 992px){
+    .stylish-powerful {
+        padding-top: 70px;
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+    .fon-elec-tow{
+        background: #040404;
+    }
+    .fon-elec-tow:after{
+        display: none;
+    }
+    .stylish-powerful_fon {
+        max-width: 457px;
+        height: auto;
+        margin-left: 0;
+    }
+    .electric-kettle_main .stylish-powerful_text strong {
+        font-size: 32px;
+        line-height: 37px;
+        text-align: center;
+    }
+    .electric-kettle_main .stylish-powerful_text {
+        max-width: 600px;
+        margin-left: 0;
+        padding: 0 20px;
+    }
+    .the-first-meeting_main {
+        flex-direction: column;
+        align-items: center;
+    }
+    .the-first-meeting_flex {
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 70px;
+    }
+    .the-first-meeting_chi img {
+        margin-top: 0;
+    }
+    .the-first-meeting_chi {
+        height: auto;
+        margin-top: 10px;
+        max-width: 547px;
+
+    }
+    .the-first-meeting_text p {
+        margin-top: 25px;
+        text-align: center;
+    }
+    .the-first-meeting_text strong {
+        font-size: 40px;
+        text-align: center;
+        display: block;
+    }
+
+    .color-important_flex {
+        margin: 50px 0;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+    .color-important_flex .the-first-meeting_text {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .color-important_left{
+        position: relative;
+        left: 65px;
+    }
+    .color-important_right{
+        position: relative;
+        right: 40px;
+    }
+    .color-important_block{
+        display: flex;
+        justify-content: space-between;
+    }
+    .color-important_block:after {
+        top: 233px;
+        left: 0;
+        height: 300px;
+    }
+    .there-enough-water {
+        padding: 40px 20px 0;
+        flex-direction: column;
+    }
+    .there-enough-water_img {
+        max-width: 503px;
+        margin-top: 51px;
+        margin-bottom: -3px;
+    }
+    .there-enough-water_text{
+        text-align: center;
+    }
+    .sec-logo_up img {
+        max-width: 341px;
+    }
+    .attention-detail_img{
+        display: none;
+    }
+    .attention-detail{
+        justify-content: center;
+        padding: 20px;
+    }
+    .attention-detail .there-enough-water_text {
+        margin-left: 0;
+    }
+    .there-enough-water_text strong {
+        font-size: 38px;
+        line-height: 45px;
+    }
+    .reliable-practicalflex {
+        padding: 0 20px;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 50px;
+    }
+    .reliable-practicalflex:after {
+        max-width: 100%;
+        height: 345px;
+        top: 320px;
+    }
+    .color-important_img {
+        right: 146px;
+        top: -14px;
+    }
+}
+@media (max-width: 768px){
+    .the-first-meeting_name{
+        padding: 0 20px;
+    }
+    .color-important_left {
+        position: relative;
+        left: 0;
+    }
+    .color-important_right {
+        height: 555px;
+        max-width: 365px;
+    }
+    .color-important_img {
+        max-width: 224px;
+    }
+    .attention-detail:after {
+        max-width: 100%!important;
+        height: 332px!important;
+        top: 185px!important;
+        left: 0 !important;
+    }
+    .attention-detail .reliable-practicalflex_img {
+        height: 408px;
+    }
+}
+@media (max-width: 576px){
+    .electric-kettle_main .stylish-powerful_text strong {
+        font-size: 26px;
+        line-height: 31px;
+    }
+    .stylish-powerful_fon {
+        max-width: 286px;
+    }
+    .the-first-meeting_flex {
+        margin-top: 40px;
+    }
+    .the-first-meeting_text strong {
+        font-size: 34px;
+        text-align: center;
+        display: block;
+    }
+    .the-first-meeting_text p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .color-important_left{
+        display: none;
+    }
+    .color-important_right{
+        display: none;
+    }
+    .color-important_img {
+        max-width: 224px;
+        position: relative;
+        right: 0;
+        top: 0;
+        left: 0;
+    }
+    .color-important_block {
+        height: auto;
+        margin-bottom: 35px;
+        display: flex;
+        justify-content: center;
+    }
+    .there-enough-water_text strong {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .sec-logo_up img{
+        margin: 10px 0;
+    }
+    .reliable-practicalflex_img {
+        height: 408px;
+    }
+    .reliable-practicalflex:after {
+        max-width: 100%;
+        height: 245px;
+        top: 269px;
+    }
+    .out-intem {
+        margin-top: 18px;
+        margin-bottom: 65px;
+    }
+    .designed-scandinavian_in .the-first-meeting_text {
+        padding: 0 20px;
+        text-align: center;
+    }
+    .marg-left_in{
+        margin: 0;
+    }
+    .electric-pages-tow-fon .there-enough-water_text {
+        margin-top: 0;
+    }
+}
